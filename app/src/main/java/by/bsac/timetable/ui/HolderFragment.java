@@ -35,7 +35,7 @@ public class HolderFragment extends Fragment {
     public HolderFragment() {
     }
 
-    @Nullable
+
     @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
 
@@ -133,12 +133,12 @@ public class HolderFragment extends Fragment {
 
         final View view = getLayoutInflater().inflate(R.layout.test,null);
 
-        for (Record item:list) {
+//        for (Record item:list) {
+//
+//
+//        }
 
-
-        }
-
-
+        lin.addView(view);
 
         frameLayout.addView(lin);
 
