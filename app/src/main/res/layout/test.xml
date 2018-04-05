@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:addStatesFromChildren="false"
+
+              android:elevation="0dp"
+              android:orientation="vertical"
+              android:paddingLeft="15dp"
+              android:paddingRight="15dp"
+              android:weightSum="1"
+              android:id="@+id/fragWorkSpase1"
+                android:background="@color/backWorkspase"
+                >
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/begin"
+            android:orientation="vertical"
+            android:background="@drawable/cornerlistview"
+            android:padding="5dp"
+            android:id="@+id/fragWorkSpase"
+            android:layout_margin="3dp"
+            >
+
+
+        <LinearLayout
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+            <TextView
+                    android:id="@+id/begin"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="начало-конец"
+                    android:textSize="15dp"
+                    android:textStyle="bold"
+                android:textColor="@color/main_text_black"/>
+
+            <TextView
+                    android:id="@+id/room"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="false"
+                    android:gravity="right"
+                    android:text="аудитория"
+                    android:textSize="15dp"
+                android:textColor="@color/main_text_black"/>
+
+        </LinearLayout>
+        <TextView
+                android:id="@+id/type"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_above="@+id/lesson"
+                android:background="@color/backWorkspase"
+                android:text="тип"
+                android:textSize="15dp"
+                android:padding="2dp"
+            android:textColor="@color/main_text_width"
+        />
+
+        <TextView
+                android:id="@+id/lesson"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="17dp"
+                android:text="предмет"
+                android:textStyle="bold"
+            android:textColor="@color/main_text_black"
+            />
+
+        <TextView
+                android:id="@+id/teacher"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/lesson"
+                android:text="препод"
+            android:textColor="@color/main_text_black"/>
+    </LinearLayout>
+
+
+</LinearLayout>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <group android:checkableBehavior="single">
+            <item android:id="@+id/nowkeek"
+                  android:title="@string/NowWeek"
+                  android:checked="true">
+
+            </item>
+            <item android:id="@+id/week1"
+                  android:title="@string/_1Week">
+            </item>
+            <item android:id="@+id/week2"
+                  android:title="@string/_2Week">
+            </item>
+            <item android:id="@+id/week3"
+                  android:title="@string/_3Week">
+            </item>
+            <item android:id="@+id/week4"
+                  android:title="@string/_4Week">
+            </item>
+        </group>
+
+</menu>
