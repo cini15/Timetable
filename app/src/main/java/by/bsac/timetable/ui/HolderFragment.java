@@ -1,5 +1,6 @@
 package by.bsac.timetable.ui;
 
+import android.annotation.SuppressLint;
 import android.content.res.Resources;
 import android.graphics.Color;
 import android.os.Bundle;
@@ -12,8 +13,10 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
+import android.widget.FrameLayout;
 import android.widget.LinearLayout;
 import android.widget.ListAdapter;
+import android.widget.RelativeLayout;
 import android.widget.TextView;
 import by.bsac.timetable.R;
 import by.bsac.timetable.resourc.records.Record;
@@ -36,91 +39,110 @@ public class HolderFragment extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
 
-        LinearLayout lin = new LinearLayout(getContext());
+      final   View mMiew = getLayoutInflater().inflate(R.layout.content_workspace,null);
 
-        ViewGroup.LayoutParams paramsWrap = new ViewGroup.LayoutParams(ViewGroup.LayoutParams.WRAP_CONTENT, ViewGroup.LayoutParams.WRAP_CONTENT);
-        LinearLayout.LayoutParams paramsMath = new LinearLayout.LayoutParams(LinearLayout.LayoutParams.MATCH_PARENT, LinearLayout.LayoutParams.WRAP_CONTENT);
+        FrameLayout frameLayout= mMiew.findViewById(R.id.fragment_container);
+
+        LinearLayout lin = new LinearLayout(getActivity());
         LinearLayout.LayoutParams paramsBody = new LinearLayout.LayoutParams(LinearLayout.LayoutParams.MATCH_PARENT, LinearLayout.LayoutParams.WRAP_CONTENT);
-        paramsBody.setMargins(0, 15, 0, 0);
-
         lin.setLayoutParams(paramsBody);
         lin.setOrientation(LinearLayout.VERTICAL);
 
-        if (this.list != null) {
-            for (int i = 0; i < list.size(); i++) {
-                Record record = list.get(i);
+//        ViewGroup.LayoutParams paramsWrap = new ViewGroup.LayoutParams(ViewGroup.LayoutParams.WRAP_CONTENT, ViewGroup.LayoutParams.WRAP_CONTENT);
+//        LinearLayout.LayoutParams paramsMath = new LinearLayout.LayoutParams(LinearLayout.LayoutParams.MATCH_PARENT, LinearLayout.LayoutParams.WRAP_CONTENT);
+//        LinearLayout.LayoutParams paramsBody = new LinearLayout.LayoutParams(LinearLayout.LayoutParams.MATCH_PARENT, LinearLayout.LayoutParams.WRAP_CONTENT);
+//        paramsBody.setMargins(0, 15, 0, 0);
+//
+//        lin.setLayoutParams(paramsBody);
+//        lin.setOrientation(LinearLayout.VERTICAL);
+//
+//        if (this.list != null) {
+//            for (int i = 0; i < list.size(); i++) {
+//                Record record = list.get(i);
+//
+//
+//                LinearLayout linearBody = new LinearLayout(getActivity());
+//
+//
+//                linearBody.setLayoutParams(paramsBody);
+//                linearBody.setOrientation(LinearLayout.VERTICAL);
+//                linearBody.setBackgroundColor(Color.WHITE);
+//                linearBody.setBackgroundResource(R.drawable.cornerlistview);
+//
+//
+//                LinearLayout linerUp = new LinearLayout(getActivity());
+//                linerUp.setOrientation(LinearLayout.HORIZONTAL);
+//                linerUp.setLayoutParams(paramsMath);
+//
+//
+//                TextView txtTimeBegin = new TextView(getActivity());
+//                txtTimeBegin.setText(getTimeBegin(record.getOrdinal_number()));
+//                txtTimeBegin.setLayoutParams(paramsWrap);
+//                linerUp.addView(txtTimeBegin);
+//
+//
+//                TextView txtLect = new TextView(getActivity());
+//                txtLect.setText(String.valueOf(record.getNumder() + " ауд. Корпус: " + record.getBuilding()));
+//                txtLect.setLayoutParams(paramsMath);
+//                txtLect.setGravity(RIGHT);
+//
+//                linerUp.addView(txtLect);
+//
+//                LinearLayout linLayout = new LinearLayout(getActivity());
+//                linLayout.setOrientation(LinearLayout.VERTICAL);
+//                linLayout.setLayoutParams(paramsMath);
+//
+//
+//                TextView txtType = new TextView(getActivity());
+//                txtType.setText(record.getType());
+//                txtType.setBackgroundColor(Color.BLUE);
+//                txtType.setTextColor(Color.WHITE);
+//                txtType.setLayoutParams(paramsWrap);
+//                linLayout.addView(txtType);
+//
+//                TextView name_sabgekt = new TextView(getActivity());
+//                name_sabgekt.setText(record.getSubject());
+//                name_sabgekt.setLayoutParams(paramsWrap);
+//                name_sabgekt.setTextSize(20);
+//                linLayout.addView(name_sabgekt);
+//
+//                TextView txtLecturer = new TextView(getActivity());
+//                txtLecturer.setText(record.getLecturer());
+//                txtLecturer.setLayoutParams(paramsWrap);
+//                linLayout.addView(txtLecturer);
+//
+//                TextView txtSabgektFor = new TextView(getActivity());
+//                txtSabgektFor.setText(record.getSubjectFor());
+//                txtSabgektFor.setLayoutParams(paramsWrap);
+//                linLayout.addView(txtSabgektFor);
+//
+//                linearBody.addView(linerUp);
+//                linearBody.addView(linLayout);
+//
+//                lin.addView(linearBody);
+//
+//            }
+//        } else {
+//            TextView norecord = new TextView(getActivity());
+//            norecord.setText("Занятий нет!");
+//            norecord.setLayoutParams(paramsMath);
+//            norecord.setGravity(CENTER);
+//            lin.addView(norecord);
+//
+//        }
 
+        final View view = getLayoutInflater().inflate(R.layout.test,null);
 
-                LinearLayout linearBody = new LinearLayout(getActivity());
+        for (Record item:list) {
 
-
-                linearBody.setLayoutParams(paramsBody);
-                linearBody.setOrientation(LinearLayout.VERTICAL);
-                linearBody.setBackgroundColor(Color.WHITE);
-                linearBody.setBackgroundResource(R.drawable.cornerlistview);
-
-
-                LinearLayout linerUp = new LinearLayout(getActivity());
-                linerUp.setOrientation(LinearLayout.HORIZONTAL);
-                linerUp.setLayoutParams(paramsMath);
-
-
-                TextView txtTimeBegin = new TextView(getActivity());
-                txtTimeBegin.setText(getTimeBegin(record.getOrdinal_number()));
-                txtTimeBegin.setLayoutParams(paramsWrap);
-                linerUp.addView(txtTimeBegin);
-
-
-                TextView txtLect = new TextView(getActivity());
-                txtLect.setText(String.valueOf(record.getNumder() + " ауд. Корпус: " + record.getBuilding()));
-                txtLect.setLayoutParams(paramsMath);
-                txtLect.setGravity(RIGHT);
-
-                linerUp.addView(txtLect);
-
-                LinearLayout linLayout = new LinearLayout(getActivity());
-                linLayout.setOrientation(LinearLayout.VERTICAL);
-                linLayout.setLayoutParams(paramsMath);
-
-
-                TextView txtType = new TextView(getActivity());
-                txtType.setText(record.getType());
-                txtType.setBackgroundColor(Color.BLUE);
-                txtType.setTextColor(Color.WHITE);
-                txtType.setLayoutParams(paramsWrap);
-                linLayout.addView(txtType);
-
-                TextView name_sabgekt = new TextView(getActivity());
-                name_sabgekt.setText(record.getSubject());
-                name_sabgekt.setLayoutParams(paramsWrap);
-                name_sabgekt.setTextSize(20);
-                linLayout.addView(name_sabgekt);
-
-                TextView txtLecturer = new TextView(getActivity());
-                txtLecturer.setText(record.getLecturer());
-                txtLecturer.setLayoutParams(paramsWrap);
-                linLayout.addView(txtLecturer);
-
-                TextView txtSabgektFor = new TextView(getActivity());
-                txtSabgektFor.setText(record.getSubjectFor());
-                txtSabgektFor.setLayoutParams(paramsWrap);
-                linLayout.addView(txtSabgektFor);
-
-                linearBody.addView(linerUp);
-                linearBody.addView(linLayout);
-
-                lin.addView(linearBody);
-
-            }
-        } else {
-            TextView norecord = new TextView(getActivity());
-            norecord.setText("Занятий нет!");
-            norecord.setLayoutParams(paramsMath);
-            norecord.setGravity(CENTER);
-            lin.addView(norecord);
 
         }
-        return lin;
+
+
+
+        frameLayout.addView(lin);
+
+        return mMiew;
     }
 
     public void setList(ArrayList<Record> list) {

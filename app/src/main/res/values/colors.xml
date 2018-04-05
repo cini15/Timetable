@@ -3,12 +3,13 @@
     <color name="colorPrimary">#3033f3</color>
     <color name="colorPrimaryDark">#5164f4</color>
     <color name="colorAccent">#FF4081</color>
-    <color name="backWorkspase">#c6c6c6</color>
+    <color name="backWorkspase">#ececec</color>
     <color name="main_text_black">#000</color>
     <color name="main_text_width">#fff</color>
 
     <color name="subj_type_lect">#03e20a</color>
     <color name="subj_type_pract">#f7030b</color>
     <color name="subj_type_lab">#031bf7</color>
+    <color name="subj_type_def">#36e701</color>
 
 </resources>
