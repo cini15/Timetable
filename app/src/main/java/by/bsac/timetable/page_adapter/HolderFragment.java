@@ -1,36 +1,24 @@
-package by.bsac.timetable.ui;
+package by.bsac.timetable.page_adapter;
 
-import android.annotation.SuppressLint;
 import android.content.res.Resources;
-import android.graphics.Color;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
-import android.support.v4.app.ListFragment;
-import android.support.v4.view.ScrollingView;
-import android.support.v7.app.AppCompatActivity;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.ArrayAdapter;
 import android.widget.FrameLayout;
 import android.widget.LinearLayout;
-import android.widget.ListAdapter;
-import android.widget.RelativeLayout;
-import android.widget.TextView;
+
 import by.bsac.timetable.R;
 import by.bsac.timetable.resourc.records.Record;
 
 import java.util.ArrayList;
 
-import static android.view.Gravity.CENTER;
-import static android.view.Gravity.RIGHT;
-
 
 public class HolderFragment extends Fragment {
 
     private ArrayList<Record> list;
-    private ArrayList<View> views;
 
     public HolderFragment() {
     }

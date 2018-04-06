@@ -1,7 +1,10 @@
 <resources>
-    <string name="app_name">Расписание занятий БГАС</string>
+    <string name="app_name">Расписание БГАС</string>
+
     <string name="action_group">Изменить группу</string>
     <string name="action_view">Изменить неделю</string>
+
+    <string name="actoin_update">Обновить</string>
     <string name="action_settings">Настройки</string>
     <string name="action_info">Информация</string>
     <string name="okay">OK</string>

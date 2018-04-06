@@ -28,7 +28,7 @@ import android.widget.Toast;
 import by.bsac.timetable.resourc.BDWorker;
 import by.bsac.timetable.resourc.records.WeeksManager;
 
-import by.bsac.timetable.ui.SectionsPagerAdapter;
+import by.bsac.timetable.page_adapter.SectionsPagerAdapter;
 
 import java.io.BufferedReader;
 import java.io.InputStream;
@@ -37,7 +37,6 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 import java.util.Calendar;
 import java.util.GregorianCalendar;
-import java.util.concurrent.ExecutionException;
 
 
 public class WorkSpace extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener {
