@@ -1,0 +1,3757 @@
+[
+  {
+    "idChair": 12,
+    "nameChair": "Военная кафедра",
+    "lecturers": [
+      {
+        "idLecturer": 307,
+        "nameLecturer": "Мачихо И.О.",
+        "idChair": 12
+      }
+    ],
+    "subjects": [
+      {
+        "idSubject": 305,
+        "nameSubject": "Военная подготовка",
+        "idChair": 12,
+        "eduLevel": 2,
+        "abnameSubject": "ВП"
+      },
+      {
+        "idSubject": 307,
+        "nameSubject": "",
+        "idChair": 12,
+        "eduLevel": 1,
+        "abnameSubject": "??"
+      },
+      {
+        "idSubject": 308,
+        "nameSubject": "Военная  подготовка",
+        "idChair": 12,
+        "eduLevel": 1,
+        "abnameSubject": "Военная подготовка"
+      }
+    ]
+  },
+  {
+    "idChair": 1,
+    "nameChair": "Кафедра гуманитарных наук",
+    "lecturers": [
+      {
+        "idLecturer": 4,
+        "nameLecturer": "доцент Томилина Л.П.",
+        "idChair": 1
+      },
+      {
+        "idLecturer": 5,
+        "nameLecturer": "доцент Зайцев Д.М.",
+        "idChair": 1
+      },
+      {
+        "idLecturer": 6,
+        "nameLecturer": "доцент Бадулин А.Н.",
+        "idChair": 1
+      },
+      {
+        "idLecturer": 7,
+        "nameLecturer": "доцент Божанов В.А.",
+        "idChair": 1
+      },
+      {
+        "idLecturer": 8,
+        "nameLecturer": "доцент Корчалова Н.Д.",
+        "idChair": 1
+      },
+      {
+        "idLecturer": 9,
+        "nameLecturer": "доцент Малыхина Г.И.",
+        "idChair": 1
+      },
+      {
+        "idLecturer": 10,
+        "nameLecturer": "Ращинская И.Н.",
+        "idChair": 1
+      },
+      {
+        "idLecturer": 11,
+        "nameLecturer": "Игнатьева Е.М.",
+        "idChair": 1
+      },
+      {
+        "idLecturer": 12,
+        "nameLecturer": "Мышелова Н.И.",
+        "idChair": 1
+      },
+      {
+        "idLecturer": 13,
+        "nameLecturer": "Бегун Е.И.",
+        "idChair": 1
+      },
+      {
+        "idLecturer": 14,
+        "nameLecturer": "Бартенева Ю.И.",
+        "idChair": 1
+      },
+      {
+        "idLecturer": 15,
+        "nameLecturer": "Беляк Т.П.",
+        "idChair": 1
+      },
+      {
+        "idLecturer": 16,
+        "nameLecturer": "Богдан О.М.",
+        "idChair": 1
+      },
+      {
+        "idLecturer": 17,
+        "nameLecturer": "Богдан С.И.",
+        "idChair": 1
+      },
+      {
+        "idLecturer": 18,
+        "nameLecturer": "Григорьева А.О.",
+        "idChair": 1
+      },
+      {
+        "idLecturer": 19,
+        "nameLecturer": "Ведерникова Л.Э.",
+        "idChair": 1
+      },
+      {
+        "idLecturer": 20,
+        "nameLecturer": "Вердыш Н.В.",
+        "idChair": 1
+      },
+      {
+        "idLecturer": 21,
+        "nameLecturer": "Давыдова Т.М.",
+        "idChair": 1
+      },
+      {
+        "idLecturer": 22,
+        "nameLecturer": "Драко О.В.",
+        "idChair": 1
+      },
+      {
+        "idLecturer": 23,
+        "nameLecturer": "Дюба В.В.",
+        "idChair": 1
+      },
+      {
+        "idLecturer": 24,
+        "nameLecturer": "Иванова С.Т.",
+        "idChair": 1
+      },
+      {
+        "idLecturer": 25,
+        "nameLecturer": "Кайдашова В.И.",
+        "idChair": 1
+      },
+      {
+        "idLecturer": 26,
+        "nameLecturer": "Карпович Т.Л.",
+        "idChair": 1
+      },
+      {
+        "idLecturer": 27,
+        "nameLecturer": "Кец Т.И.",
+        "idChair": 1
+      },
+      {
+        "idLecturer": 28,
+        "nameLecturer": "Ковалевич Н.В.",
+        "idChair": 1
+      },
+      {
+        "idLecturer": 29,
+        "nameLecturer": "доцент Красюк Н.И.",
+        "idChair": 1
+      },
+      {
+        "idLecturer": 30,
+        "nameLecturer": "Кохан А.Л.",
+        "idChair": 1
+      },
+      {
+        "idLecturer": 32,
+        "nameLecturer": "Прохорчук А.В.",
+        "idChair": 1
+      },
+      {
+        "idLecturer": 33,
+        "nameLecturer": "Романовская Н.Е.",
+        "idChair": 1
+      },
+      {
+        "idLecturer": 34,
+        "nameLecturer": "Тишкова Л.А.",
+        "idChair": 1
+      },
+      {
+        "idLecturer": 35,
+        "nameLecturer": "Филоненко Л.В.",
+        "idChair": 1
+      },
+      {
+        "idLecturer": 36,
+        "nameLecturer": "Шамрук А.О.",
+        "idChair": 1
+      },
+      {
+        "idLecturer": 37,
+        "nameLecturer": "Шишко О.В.",
+        "idChair": 1
+      },
+      {
+        "idLecturer": 80,
+        "nameLecturer": "зав. кафедрой ГН Томилина Л.П.",
+        "idChair": 1
+      },
+      {
+        "idLecturer": 219,
+        "nameLecturer": "ст. препод. Христина Л.Ф.",
+        "idChair": 1
+      },
+      {
+        "idLecturer": 263,
+        "nameLecturer": "зав. каф. ГН Томилина Л.П.",
+        "idChair": 1
+      }
+    ],
+    "subjects": [
+      {
+        "idSubject": 4,
+        "nameSubject": "История Беларуси (в контексте европейской цивилизации)",
+        "idChair": 1,
+        "eduLevel": 1,
+        "abnameSubject": "Ист. Бел."
+      },
+      {
+        "idSubject": 5,
+        "nameSubject": "Политология",
+        "idChair": 1,
+        "eduLevel": 1,
+        "abnameSubject": "Полит."
+      },
+      {
+        "idSubject": 6,
+        "nameSubject": "Основы идеологии белорусского государства",
+        "idChair": 1,
+        "eduLevel": 1,
+        "abnameSubject": "ОИБГ"
+      },
+      {
+        "idSubject": 7,
+        "nameSubject": "Философия",
+        "idChair": 1,
+        "eduLevel": 1,
+        "abnameSubject": "Философия"
+      },
+      {
+        "idSubject": 8,
+        "nameSubject": "Основы психологии и педагогики",
+        "idChair": 1,
+        "eduLevel": 1,
+        "abnameSubject": "ОПиП"
+      },
+      {
+        "idSubject": 9,
+        "nameSubject": "Психология управления",
+        "idChair": 1,
+        "eduLevel": 1,
+        "abnameSubject": "ПУ"
+      },
+      {
+        "idSubject": 10,
+        "nameSubject": "История науки и техники",
+        "idChair": 1,
+        "eduLevel": 1,
+        "abnameSubject": "ИНиТ"
+      },
+      {
+        "idSubject": 11,
+        "nameSubject": "Иностранный язык",
+        "idChair": 1,
+        "eduLevel": 1,
+        "abnameSubject": "Ин.яз."
+      },
+      {
+        "idSubject": 12,
+        "nameSubject": "Иностранный язык (профессиональная лексика)",
+        "idChair": 1,
+        "eduLevel": 1,
+        "abnameSubject": "Ин.яз. факульт."
+      },
+      {
+        "idSubject": 13,
+        "nameSubject": "Экономика",
+        "idChair": 1,
+        "eduLevel": 1,
+        "abnameSubject": "Экономика"
+      },
+      {
+        "idSubject": 14,
+        "nameSubject": "Социология",
+        "idChair": 1,
+        "eduLevel": 1,
+        "abnameSubject": "Социология"
+      },
+      {
+        "idSubject": 15,
+        "nameSubject": "Белорусский язык",
+        "idChair": 1,
+        "eduLevel": 2,
+        "abnameSubject": "Бел.яз."
+      },
+      {
+        "idSubject": 16,
+        "nameSubject": "Белорусская литература",
+        "idChair": 1,
+        "eduLevel": 2,
+        "abnameSubject": "Бел.лит."
+      },
+      {
+        "idSubject": 17,
+        "nameSubject": "Белорусский язык (профессиональная лексика)",
+        "idChair": 1,
+        "eduLevel": 2,
+        "abnameSubject": "Бел.яз."
+      },
+      {
+        "idSubject": 18,
+        "nameSubject": "Русский язык",
+        "idChair": 1,
+        "eduLevel": 2,
+        "abnameSubject": "Рус.яз."
+      },
+      {
+        "idSubject": 19,
+        "nameSubject": "Русская литература",
+        "idChair": 1,
+        "eduLevel": 2,
+        "abnameSubject": "Рус. лит."
+      },
+      {
+        "idSubject": 20,
+        "nameSubject": "История Беларуси",
+        "idChair": 1,
+        "eduLevel": 2,
+        "abnameSubject": "Ист.Бел."
+      },
+      {
+        "idSubject": 21,
+        "nameSubject": "Всемирная история",
+        "idChair": 1,
+        "eduLevel": 2,
+        "abnameSubject": "В.История"
+      },
+      {
+        "idSubject": 22,
+        "nameSubject": "Обществоведение",
+        "idChair": 1,
+        "eduLevel": 2,
+        "abnameSubject": "Обществоведение"
+      },
+      {
+        "idSubject": 23,
+        "nameSubject": "Иностранный язык",
+        "idChair": 1,
+        "eduLevel": 2,
+        "abnameSubject": "Ин.яз."
+      },
+      {
+        "idSubject": 24,
+        "nameSubject": "Совершенствование навыков владения английским языком (факультатив)",
+        "idChair": 1,
+        "eduLevel": 2,
+        "abnameSubject": "СНВАЯ"
+      },
+      {
+        "idSubject": 25,
+        "nameSubject": "Иностранный язык (профессиональная лексика)",
+        "idChair": 1,
+        "eduLevel": 2,
+        "abnameSubject": "Ин.яз."
+      },
+      {
+        "idSubject": 26,
+        "nameSubject": "Основы технического перевода (факультатив)",
+        "idChair": 1,
+        "eduLevel": 2,
+        "abnameSubject": "ОТП"
+      },
+      {
+        "idSubject": 27,
+        "nameSubject": "Основы социологии и политологии",
+        "idChair": 1,
+        "eduLevel": 2,
+        "abnameSubject": "ОСиП"
+      },
+      {
+        "idSubject": 28,
+        "nameSubject": "Основы экономической теории",
+        "idChair": 1,
+        "eduLevel": 2,
+        "abnameSubject": "ОЭТ"
+      },
+      {
+        "idSubject": 29,
+        "nameSubject": "Основы права",
+        "idChair": 1,
+        "eduLevel": 2,
+        "abnameSubject": "ОП"
+      },
+      {
+        "idSubject": 30,
+        "nameSubject": "Мировые войны в истории XX века (факультатив)",
+        "idChair": 1,
+        "eduLevel": 2,
+        "abnameSubject": "МВвИ XXв."
+      },
+      {
+        "idSubject": 31,
+        "nameSubject": "Основы идеологии белорусского государства (факультатив)",
+        "idChair": 1,
+        "eduLevel": 2,
+        "abnameSubject": "ОИБГ(ф.)"
+      },
+      {
+        "idSubject": 32,
+        "nameSubject": "Французский язык (профессиональная лексика)",
+        "idChair": 1,
+        "eduLevel": 2,
+        "abnameSubject": "ФЯ(проф.л.)"
+      },
+      {
+        "idSubject": 33,
+        "nameSubject": "Английский язык (профессиональная лексика)",
+        "idChair": 1,
+        "eduLevel": 2,
+        "abnameSubject": "АЯ(проф.л.)"
+      },
+      {
+        "idSubject": 34,
+        "nameSubject": "Основы социально-гуманитарных наук",
+        "idChair": 1,
+        "eduLevel": 2,
+        "abnameSubject": "ОСГН"
+      },
+      {
+        "idSubject": 35,
+        "nameSubject": "География",
+        "idChair": 1,
+        "eduLevel": 2,
+        "abnameSubject": "География"
+      },
+      {
+        "idSubject": 36,
+        "nameSubject": "Правовое обеспечение информационных технологий",
+        "idChair": 1,
+        "eduLevel": 2,
+        "abnameSubject": "ПОИТ"
+      },
+      {
+        "idSubject": 37,
+        "nameSubject": "Основы социальных коммуникаций ",
+        "idChair": 1,
+        "eduLevel": 2,
+        "abnameSubject": "ОСК"
+      },
+      {
+        "idSubject": 38,
+        "nameSubject": "Этика и психология профессиональной деятельности",
+        "idChair": 1,
+        "eduLevel": 2,
+        "abnameSubject": "ЭиППД"
+      },
+      {
+        "idSubject": 39,
+        "nameSubject": "Коррупция и ее общественная опасность (факультатив)",
+        "idChair": 1,
+        "eduLevel": 2,
+        "abnameSubject": "КиЕОО(ф.)"
+      },
+      {
+        "idSubject": 40,
+        "nameSubject": "Конфликтология (факультатив)",
+        "idChair": 1,
+        "eduLevel": 2,
+        "abnameSubject": "К(ф.)"
+      },
+      {
+        "idSubject": 41,
+        "nameSubject": "Великая Отечественная война советского народа(факультатив)",
+        "idChair": 1,
+        "eduLevel": 2,
+        "abnameSubject": "ВОВСН"
+      },
+      {
+        "idSubject": 268,
+        "nameSubject": "Административная  география",
+        "idChair": 1,
+        "eduLevel": 2,
+        "abnameSubject": ""
+      },
+      {
+        "idSubject": 269,
+        "nameSubject": "Иностранный язык. Основы тех. перевода (факультатив)",
+        "idChair": 1,
+        "eduLevel": 2,
+        "abnameSubject": ""
+      },
+      {
+        "idSubject": 270,
+        "nameSubject": "История Беларуси (в контексте европейской цивилизации)",
+        "idChair": 1,
+        "eduLevel": 2,
+        "abnameSubject": ""
+      },
+      {
+        "idSubject": 271,
+        "nameSubject": "История науки и техники",
+        "idChair": 1,
+        "eduLevel": 2,
+        "abnameSubject": ""
+      },
+      {
+        "idSubject": 274,
+        "nameSubject": "Основы идеалогии белорусского государства",
+        "idChair": 1,
+        "eduLevel": 2,
+        "abnameSubject": "ОИБГ"
+      },
+      {
+        "idSubject": 275,
+        "nameSubject": "Основы психологии и педагогики",
+        "idChair": 1,
+        "eduLevel": 2,
+        "abnameSubject": "ОПП"
+      },
+      {
+        "idSubject": 276,
+        "nameSubject": "Психология управления",
+        "idChair": 1,
+        "eduLevel": 2,
+        "abnameSubject": "ПУ"
+      },
+      {
+        "idSubject": 277,
+        "nameSubject": "Политология ",
+        "idChair": 1,
+        "eduLevel": 2,
+        "abnameSubject": "ПОЛИТ"
+      },
+      {
+        "idSubject": 278,
+        "nameSubject": "Социалогия ",
+        "idChair": 1,
+        "eduLevel": 2,
+        "abnameSubject": "СОЦИАЛ"
+      },
+      {
+        "idSubject": 279,
+        "nameSubject": "Философия ",
+        "idChair": 1,
+        "eduLevel": 2,
+        "abnameSubject": "ФИЛОС"
+      },
+      {
+        "idSubject": 306,
+        "nameSubject": "",
+        "idChair": 1,
+        "eduLevel": 1,
+        "abnameSubject": "????"
+      }
+    ]
+  },
+  {
+    "idChair": 2,
+    "nameChair": "Кафедра довузовского образования и русского языка как иностранного",
+    "lecturers": [
+      {
+        "idLecturer": 38,
+        "nameLecturer": "Специан Л.М.",
+        "idChair": 2
+      },
+      {
+        "idLecturer": 39,
+        "nameLecturer": "Степанчук Ю.А.",
+        "idChair": 2
+      },
+      {
+        "idLecturer": 40,
+        "nameLecturer": "Патапович М.П.",
+        "idChair": 2
+      },
+      {
+        "idLecturer": 41,
+        "nameLecturer": "Мандрикова Л.В.",
+        "idChair": 2
+      },
+      {
+        "idLecturer": 81,
+        "nameLecturer": "-",
+        "idChair": 2
+      }
+    ],
+    "subjects": []
+  },
+  {
+    "idChair": 3,
+    "nameChair": "Кафедра здорового образа жизни",
+    "lecturers": [
+      {
+        "idLecturer": 42,
+        "nameLecturer": "зав. каф. ЗОЖ Курмашев В.И.",
+        "idChair": 3
+      },
+      {
+        "idLecturer": 43,
+        "nameLecturer": "Проволоцкий А.Н.",
+        "idChair": 3
+      },
+      {
+        "idLecturer": 44,
+        "nameLecturer": "доцент Шкилёнок В.С.",
+        "idChair": 3
+      },
+      {
+        "idLecturer": 45,
+        "nameLecturer": "ст. препод. Ананич Л.Н.",
+        "idChair": 3
+      },
+      {
+        "idLecturer": 46,
+        "nameLecturer": "Кротов В.В.",
+        "idChair": 3
+      },
+      {
+        "idLecturer": 47,
+        "nameLecturer": "ст. препод. Малашевич И.В.",
+        "idChair": 3
+      },
+      {
+        "idLecturer": 48,
+        "nameLecturer": "ст. препод. Шаг И.М.",
+        "idChair": 3
+      },
+      {
+        "idLecturer": 49,
+        "nameLecturer": "Жибрик Л.А.",
+        "idChair": 3
+      },
+      {
+        "idLecturer": 50,
+        "nameLecturer": "Казаченко Т.П.",
+        "idChair": 3
+      },
+      {
+        "idLecturer": 51,
+        "nameLecturer": "Кривицкий С.В.",
+        "idChair": 3
+      },
+      {
+        "idLecturer": 52,
+        "nameLecturer": "Чемшит А.М.",
+        "idChair": 3
+      },
+      {
+        "idLecturer": 53,
+        "nameLecturer": "Мохов И.А.",
+        "idChair": 3
+      },
+      {
+        "idLecturer": 54,
+        "nameLecturer": "Петраков С.Т.",
+        "idChair": 3
+      },
+      {
+        "idLecturer": 55,
+        "nameLecturer": "Федченко А.Н.",
+        "idChair": 3
+      },
+      {
+        "idLecturer": 56,
+        "nameLecturer": "Воропаев И.В.",
+        "idChair": 3
+      },
+      {
+        "idLecturer": 57,
+        "nameLecturer": "Котко Д.Э.",
+        "idChair": 3
+      },
+      {
+        "idLecturer": 58,
+        "nameLecturer": "Апанович А.В.",
+        "idChair": 3
+      },
+      {
+        "idLecturer": 59,
+        "nameLecturer": "Киселёва Т.Ф.",
+        "idChair": 3
+      },
+      {
+        "idLecturer": 60,
+        "nameLecturer": "Стасёнок Т.В.",
+        "idChair": 3
+      },
+      {
+        "idLecturer": 61,
+        "nameLecturer": "Шабанов Г.Г.",
+        "idChair": 3
+      },
+      {
+        "idLecturer": 82,
+        "nameLecturer": "ст. препод. Рысюкевич Н.С.",
+        "idChair": 3
+      },
+      {
+        "idLecturer": 295,
+        "nameLecturer": "ст. препод. Кротов В.В.",
+        "idChair": 3
+      },
+      {
+        "idLecturer": 296,
+        "nameLecturer": "доцент Паситниченко В.В.",
+        "idChair": 3
+      }
+    ],
+    "subjects": [
+      {
+        "idSubject": 42,
+        "nameSubject": "Физическая культура",
+        "idChair": 3,
+        "eduLevel": 1,
+        "abnameSubject": "Физ-ра"
+      },
+      {
+        "idSubject": 43,
+        "nameSubject": "Физическая культура и здоровье",
+        "idChair": 3,
+        "eduLevel": 2,
+        "abnameSubject": "ФКиЗ"
+      },
+      {
+        "idSubject": 44,
+        "nameSubject": "Допризывная подготовка",
+        "idChair": 3,
+        "eduLevel": 2,
+        "abnameSubject": "ДП"
+      },
+      {
+        "idSubject": 45,
+        "nameSubject": "Медицинская подготовка",
+        "idChair": 3,
+        "eduLevel": 2,
+        "abnameSubject": "МП"
+      }
+    ]
+  },
+  {
+    "idChair": 4,
+    "nameChair": "Кафедра инфокоммуникационных технологий",
+    "lecturers": [
+      {
+        "idLecturer": 62,
+        "nameLecturer": "доцент Дубровский В.В.",
+        "idChair": 4
+      },
+      {
+        "idLecturer": 63,
+        "nameLecturer": "профессор Гречихин Л.И.",
+        "idChair": 4
+      },
+      {
+        "idLecturer": 64,
+        "nameLecturer": "",
+        "idChair": 4
+      },
+      {
+        "idLecturer": 65,
+        "nameLecturer": "доцент Жданович С.В.",
+        "idChair": 4
+      },
+      {
+        "idLecturer": 66,
+        "nameLecturer": "доцент Алымова А.А.",
+        "idChair": 4
+      },
+      {
+        "idLecturer": 67,
+        "nameLecturer": "доцент Свирид В.Л.",
+        "idChair": 4
+      },
+      {
+        "idLecturer": 68,
+        "nameLecturer": "доцент Будник А.В.",
+        "idChair": 4
+      },
+      {
+        "idLecturer": 69,
+        "nameLecturer": "доцент Боженков В.В.",
+        "idChair": 4
+      },
+      {
+        "idLecturer": 70,
+        "nameLecturer": "Винькова Т.И.",
+        "idChair": 4
+      },
+      {
+        "idLecturer": 71,
+        "nameLecturer": "зав. каф. ИКТ Дубровский В.В.",
+        "idChair": 4
+      },
+      {
+        "idLecturer": 72,
+        "nameLecturer": "Юган О.Г.",
+        "idChair": 4
+      },
+      {
+        "idLecturer": 73,
+        "nameLecturer": "Данильчик Н.В.",
+        "idChair": 4
+      },
+      {
+        "idLecturer": 74,
+        "nameLecturer": "Влас Л.П.",
+        "idChair": 4
+      },
+      {
+        "idLecturer": 75,
+        "nameLecturer": "Кузуро И.В.",
+        "idChair": 4
+      },
+      {
+        "idLecturer": 76,
+        "nameLecturer": "Лавшук О.А.",
+        "idChair": 4
+      },
+      {
+        "idLecturer": 77,
+        "nameLecturer": "Богородов В.И.",
+        "idChair": 4
+      },
+      {
+        "idLecturer": 78,
+        "nameLecturer": "Новикова Н.М.",
+        "idChair": 4
+      },
+      {
+        "idLecturer": 79,
+        "nameLecturer": "ст. препод. Котухов А.В.",
+        "idChair": 4
+      },
+      {
+        "idLecturer": 83,
+        "nameLecturer": "доцент Половеня С.И.",
+        "idChair": 4
+      },
+      {
+        "idLecturer": 220,
+        "nameLecturer": "ст. препод. Попова М.С.",
+        "idChair": 4
+      },
+      {
+        "idLecturer": 221,
+        "nameLecturer": "ст. препод. Дворникова Т.Н.",
+        "idChair": 4
+      },
+      {
+        "idLecturer": 226,
+        "nameLecturer": "доцент Москалёв Д.В.",
+        "idChair": 4
+      },
+      {
+        "idLecturer": 233,
+        "nameLecturer": "Куль Т.П.",
+        "idChair": 4
+      },
+      {
+        "idLecturer": 276,
+        "nameLecturer": "доцент Барановский О.К.",
+        "idChair": 4
+      },
+      {
+        "idLecturer": 277,
+        "nameLecturer": "доцент Лапцевич А.А.",
+        "idChair": 4
+      },
+      {
+        "idLecturer": 278,
+        "nameLecturer": "доцент Павлюковец С.А.",
+        "idChair": 4
+      },
+      {
+        "idLecturer": 279,
+        "nameLecturer": "доцент Ходасевич О.Р.",
+        "idChair": 4
+      },
+      {
+        "idLecturer": 280,
+        "nameLecturer": "ст. препод. Лавшук О.А.",
+        "idChair": 4
+      },
+      {
+        "idLecturer": 281,
+        "nameLecturer": "доцент Кудрицкая Е.А.",
+        "idChair": 4
+      }
+    ],
+    "subjects": [
+      {
+        "idSubject": 46,
+        "nameSubject": "Информатика",
+        "idChair": 4,
+        "eduLevel": 2,
+        "abnameSubject": "Информатика"
+      },
+      {
+        "idSubject": 47,
+        "nameSubject": "Инженерная графика",
+        "idChair": 4,
+        "eduLevel": 2,
+        "abnameSubject": "ИГ"
+      },
+      {
+        "idSubject": 48,
+        "nameSubject": "Основы инженерной графики",
+        "idChair": 4,
+        "eduLevel": 2,
+        "abnameSubject": "ОИГ"
+      },
+      {
+        "idSubject": 49,
+        "nameSubject": "Информационные технологии",
+        "idChair": 4,
+        "eduLevel": 2,
+        "abnameSubject": "ИТ"
+      },
+      {
+        "idSubject": 50,
+        "nameSubject": "Языки моделирования Международного союза электросвязи",
+        "idChair": 4,
+        "eduLevel": 2,
+        "abnameSubject": "ЯММСЭ"
+      },
+      {
+        "idSubject": 51,
+        "nameSubject": "Цифровые и микропроцессорные устройства",
+        "idChair": 4,
+        "eduLevel": 2,
+        "abnameSubject": "ЦиМПУ"
+      },
+      {
+        "idSubject": 52,
+        "nameSubject": "Электронная техника",
+        "idChair": 4,
+        "eduLevel": 2,
+        "abnameSubject": "ЭТ"
+      },
+      {
+        "idSubject": 53,
+        "nameSubject": "Стандартизация и сертификация программного обеспечения",
+        "idChair": 4,
+        "eduLevel": 2,
+        "abnameSubject": "СиСПО"
+      },
+      {
+        "idSubject": 54,
+        "nameSubject": "Программирование мультимедийных систем",
+        "idChair": 4,
+        "eduLevel": 2,
+        "abnameSubject": "ПМС"
+      },
+      {
+        "idSubject": 55,
+        "nameSubject": "Переезд в копус 1",
+        "idChair": 4,
+        "eduLevel": 2,
+        "abnameSubject": ""
+      },
+      {
+        "idSubject": 56,
+        "nameSubject": "Компьютерные информационные технологии",
+        "idChair": 4,
+        "eduLevel": 1,
+        "abnameSubject": "КИТ"
+      },
+      {
+        "idSubject": 57,
+        "nameSubject": "Начертательная геометрия и компьютерная графика",
+        "idChair": 4,
+        "eduLevel": 1,
+        "abnameSubject": "НГиИГ"
+      },
+      {
+        "idSubject": 58,
+        "nameSubject": "Основы алгоритмизации и программирования",
+        "idChair": 4,
+        "eduLevel": 1,
+        "abnameSubject": "ОАиП"
+      },
+      {
+        "idSubject": 59,
+        "nameSubject": "Основы теории информации",
+        "idChair": 4,
+        "eduLevel": 1,
+        "abnameSubject": "ОТИ"
+      },
+      {
+        "idSubject": 60,
+        "nameSubject": "Основы защиты информации",
+        "idChair": 4,
+        "eduLevel": 1,
+        "abnameSubject": "ОЗИ"
+      },
+      {
+        "idSubject": 61,
+        "nameSubject": "Информационные технологии электронного документооборота",
+        "idChair": 4,
+        "eduLevel": 1,
+        "abnameSubject": "ИТЭД"
+      },
+      {
+        "idSubject": 62,
+        "nameSubject": "Программное моделирование функциональных узлов телекоммуникаций",
+        "idChair": 4,
+        "eduLevel": 1,
+        "abnameSubject": "ПМФУТк"
+      },
+      {
+        "idSubject": 63,
+        "nameSubject": "Управление сетями и объектами инфокоммуникаций",
+        "idChair": 4,
+        "eduLevel": 1,
+        "abnameSubject": "УСиОИ"
+      },
+      {
+        "idSubject": 64,
+        "nameSubject": "Функциональные устройства инфокоммуникаций",
+        "idChair": 4,
+        "eduLevel": 1,
+        "abnameSubject": "ФУИ"
+      },
+      {
+        "idSubject": 65,
+        "nameSubject": "Функциональные устройства инфокоммуникационных систем",
+        "idChair": 4,
+        "eduLevel": 1,
+        "abnameSubject": "ФУИС"
+      },
+      {
+        "idSubject": 258,
+        "nameSubject": "Цифровые и микропроцессорные устройства",
+        "idChair": 4,
+        "eduLevel": 1,
+        "abnameSubject": "ЦиМПУ"
+      }
+    ]
+  },
+  {
+    "idChair": 5,
+    "nameChair": "Кафедра математики и физики",
+    "lecturers": [
+      {
+        "idLecturer": 84,
+        "nameLecturer": "профессор Гладков Л.Л.",
+        "idChair": 5
+      },
+      {
+        "idLecturer": 85,
+        "nameLecturer": "профессор Гулаков И.Р.",
+        "idChair": 5
+      },
+      {
+        "idLecturer": 86,
+        "nameLecturer": "профессор Зеневич А.О.",
+        "idChair": 5
+      },
+      {
+        "idLecturer": 87,
+        "nameLecturer": "доцент Павлюковец С.А.",
+        "idChair": 5
+      },
+      {
+        "idLecturer": 88,
+        "nameLecturer": "доцент Патапович М.П.",
+        "idChair": 5
+      },
+      {
+        "idLecturer": 89,
+        "nameLecturer": "ст. препод. Колодная Е.М.",
+        "idChair": 5
+      },
+      {
+        "idLecturer": 90,
+        "nameLecturer": "ст. препод. Петрович А.В.",
+        "idChair": 5
+      },
+      {
+        "idLecturer": 91,
+        "nameLecturer": "ст. препод. Рябенкова Л.А.",
+        "idChair": 5
+      },
+      {
+        "idLecturer": 92,
+        "nameLecturer": "доцент Шостак Ю.А.",
+        "idChair": 5
+      },
+      {
+        "idLecturer": 93,
+        "nameLecturer": "Демешко О.Д.",
+        "idChair": 5
+      },
+      {
+        "idLecturer": 94,
+        "nameLecturer": "Жуковская Н.М.",
+        "idChair": 5
+      },
+      {
+        "idLecturer": 95,
+        "nameLecturer": "Корженевская С.В.",
+        "idChair": 5
+      },
+      {
+        "idLecturer": 96,
+        "nameLecturer": "Лагутина Ж.П.",
+        "idChair": 5
+      },
+      {
+        "idLecturer": 97,
+        "nameLecturer": "Ласько Г.И.",
+        "idChair": 5
+      },
+      {
+        "idLecturer": 98,
+        "nameLecturer": "Мозоляко Г.И.",
+        "idChair": 5
+      },
+      {
+        "idLecturer": 99,
+        "nameLecturer": "Мороз Л.М.",
+        "idChair": 5
+      },
+      {
+        "idLecturer": 100,
+        "nameLecturer": "Прадун Т.А.",
+        "idChair": 5
+      },
+      {
+        "idLecturer": 101,
+        "nameLecturer": "Чемерко Н.Н.",
+        "idChair": 5
+      },
+      {
+        "idLecturer": 102,
+        "nameLecturer": "Щасная А.В.",
+        "idChair": 5
+      },
+      {
+        "idLecturer": 103,
+        "nameLecturer": "Шестакова И.А.",
+        "idChair": 5
+      },
+      {
+        "idLecturer": 104,
+        "nameLecturer": "Клинцевич А.Э.",
+        "idChair": 5
+      },
+      {
+        "idLecturer": 218,
+        "nameLecturer": "доцент Заяц Г.М.         ",
+        "idChair": 5
+      },
+      {
+        "idLecturer": 275,
+        "nameLecturer": "зав. каф. МиФ Павлюковец С.А.",
+        "idChair": 5
+      }
+    ],
+    "subjects": [
+      {
+        "idSubject": 66,
+        "nameSubject": "Высшая математика",
+        "idChair": 5,
+        "eduLevel": 1,
+        "abnameSubject": "ВМ"
+      },
+      {
+        "idSubject": 67,
+        "nameSubject": "Теория вероятностей и математическая статистика",
+        "idChair": 5,
+        "eduLevel": 1,
+        "abnameSubject": "ТВиМС"
+      },
+      {
+        "idSubject": 68,
+        "nameSubject": "Общая теория статистики",
+        "idChair": 5,
+        "eduLevel": 1,
+        "abnameSubject": "ОТС"
+      },
+      {
+        "idSubject": 69,
+        "nameSubject": "Физика",
+        "idChair": 5,
+        "eduLevel": 1,
+        "abnameSubject": "Физика"
+      },
+      {
+        "idSubject": 70,
+        "nameSubject": "Физические основы электроники",
+        "idChair": 5,
+        "eduLevel": 1,
+        "abnameSubject": "ФОЭ"
+      },
+      {
+        "idSubject": 71,
+        "nameSubject": "Дискретная математика",
+        "idChair": 5,
+        "eduLevel": 1,
+        "abnameSubject": "ДМ"
+      },
+      {
+        "idSubject": 72,
+        "nameSubject": "Математическое программирование",
+        "idChair": 5,
+        "eduLevel": 1,
+        "abnameSubject": "МП"
+      },
+      {
+        "idSubject": 73,
+        "nameSubject": "Математическое моделирование",
+        "idChair": 5,
+        "eduLevel": 1,
+        "abnameSubject": "ММ"
+      },
+      {
+        "idSubject": 74,
+        "nameSubject": "Эконометрика и экономико-математические методы и модели",
+        "idChair": 5,
+        "eduLevel": 1,
+        "abnameSubject": "ЭиЭММиМ"
+      },
+      {
+        "idSubject": 75,
+        "nameSubject": "Статистика",
+        "idChair": 5,
+        "eduLevel": 1,
+        "abnameSubject": "Статистика"
+      },
+      {
+        "idSubject": 76,
+        "nameSubject": "Математика",
+        "idChair": 5,
+        "eduLevel": 2,
+        "abnameSubject": "Математика"
+      },
+      {
+        "idSubject": 77,
+        "nameSubject": "",
+        "idChair": 5,
+        "eduLevel": 2,
+        "abnameSubject": ""
+      },
+      {
+        "idSubject": 78,
+        "nameSubject": "Физика",
+        "idChair": 5,
+        "eduLevel": 2,
+        "abnameSubject": "Физика"
+      },
+      {
+        "idSubject": 79,
+        "nameSubject": "Астрономия",
+        "idChair": 5,
+        "eduLevel": 2,
+        "abnameSubject": "Астрономия"
+      },
+      {
+        "idSubject": 80,
+        "nameSubject": "Общая физика",
+        "idChair": 5,
+        "eduLevel": 2,
+        "abnameSubject": "ОФ"
+      },
+      {
+        "idSubject": 81,
+        "nameSubject": "Химия",
+        "idChair": 5,
+        "eduLevel": 2,
+        "abnameSubject": "Химия"
+      },
+      {
+        "idSubject": 82,
+        "nameSubject": "Биология",
+        "idChair": 5,
+        "eduLevel": 2,
+        "abnameSubject": "Биология"
+      },
+      {
+        "idSubject": 83,
+        "nameSubject": "Охрана окружающей среды и энергосбережение",
+        "idChair": 5,
+        "eduLevel": 2,
+        "abnameSubject": "ООСиЭ"
+      },
+      {
+        "idSubject": 84,
+        "nameSubject": "Элементарная математика",
+        "idChair": 5,
+        "eduLevel": 2,
+        "abnameSubject": "ЭМ"
+      },
+      {
+        "idSubject": 85,
+        "nameSubject": "Элементарная физика",
+        "idChair": 5,
+        "eduLevel": 2,
+        "abnameSubject": "ЭФ"
+      },
+      {
+        "idSubject": 257,
+        "nameSubject": "Математика",
+        "idChair": 5,
+        "eduLevel": 1,
+        "abnameSubject": "Математика"
+      }
+    ]
+  },
+  {
+    "idChair": 6,
+    "nameChair": "Кафедра организации и технологии почтовой связи",
+    "lecturers": [
+      {
+        "idLecturer": 105,
+        "nameLecturer": "доцент Новикова Л.М.",
+        "idChair": 6
+      },
+      {
+        "idLecturer": 106,
+        "nameLecturer": "доцент Соловьев В.В.",
+        "idChair": 6
+      },
+      {
+        "idLecturer": 107,
+        "nameLecturer": "ст. препод. Бураченко В.М.",
+        "idChair": 6
+      },
+      {
+        "idLecturer": 108,
+        "nameLecturer": "Стрельская Н.А.",
+        "idChair": 6
+      },
+      {
+        "idLecturer": 109,
+        "nameLecturer": "Лукашик Т.М.",
+        "idChair": 6
+      },
+      {
+        "idLecturer": 110,
+        "nameLecturer": "Рабкова Т.М.",
+        "idChair": 6
+      },
+      {
+        "idLecturer": 111,
+        "nameLecturer": "Пашкович Н.В.",
+        "idChair": 6
+      },
+      {
+        "idLecturer": 112,
+        "nameLecturer": "Пархоменко Н.А.",
+        "idChair": 6
+      },
+      {
+        "idLecturer": 113,
+        "nameLecturer": "профессор Вышинский Н.В.",
+        "idChair": 6
+      },
+      {
+        "idLecturer": 114,
+        "nameLecturer": "Серафимович Е.В.",
+        "idChair": 6
+      },
+      {
+        "idLecturer": 115,
+        "nameLecturer": "Коваленко Т.Г.",
+        "idChair": 6
+      },
+      {
+        "idLecturer": 116,
+        "nameLecturer": "Хлебец Т.И.",
+        "idChair": 6
+      },
+      {
+        "idLecturer": 117,
+        "nameLecturer": "Разумович И.С.",
+        "idChair": 6
+      },
+      {
+        "idLecturer": 127,
+        "nameLecturer": "доцент Бохан Ю.И.",
+        "idChair": 6
+      },
+      {
+        "idLecturer": 229,
+        "nameLecturer": "доцент Савченко С.В.",
+        "idChair": 6
+      },
+      {
+        "idLecturer": 232,
+        "nameLecturer": "Вокзальная",
+        "idChair": 6
+      },
+      {
+        "idLecturer": 239,
+        "nameLecturer": "профессор Курмашов  В.И",
+        "idChair": 6
+      },
+      {
+        "idLecturer": 240,
+        "nameLecturer": "доцент Будник А.В.",
+        "idChair": 6
+      },
+      {
+        "idLecturer": 282,
+        "nameLecturer": "профессор Зеневич А.О.",
+        "idChair": 6
+      },
+      {
+        "idLecturer": 283,
+        "nameLecturer": "доцент Кудрицкая Е.А.",
+        "idChair": 6
+      },
+      {
+        "idLecturer": 284,
+        "nameLecturer": "доцент Ходасевич А.Р.",
+        "idChair": 6
+      },
+      {
+        "idLecturer": 285,
+        "nameLecturer": "доцент Новиков Е.В.",
+        "idChair": 6
+      },
+      {
+        "idLecturer": 286,
+        "nameLecturer": "доцент Домакур О.В.",
+        "idChair": 6
+      },
+      {
+        "idLecturer": 287,
+        "nameLecturer": "доцент Рыбак В.А.",
+        "idChair": 6
+      },
+      {
+        "idLecturer": 288,
+        "nameLecturer": "доцент Барановский О.К.",
+        "idChair": 6
+      },
+      {
+        "idLecturer": 289,
+        "nameLecturer": "доцент Боженков В.В.",
+        "idChair": 6
+      },
+      {
+        "idLecturer": 290,
+        "nameLecturer": "доцент Лапцевич А.А.",
+        "idChair": 6
+      },
+      {
+        "idLecturer": 291,
+        "nameLecturer": "зав. каф. ОТПС  Новикова Л.М.",
+        "idChair": 6
+      },
+      {
+        "idLecturer": 292,
+        "nameLecturer": "ст. препод. Стрельская Н.А.",
+        "idChair": 6
+      },
+      {
+        "idLecturer": 293,
+        "nameLecturer": "ст. препод. Коваленко Т.Г.",
+        "idChair": 6
+      },
+      {
+        "idLecturer": 294,
+        "nameLecturer": "ст. преподаватель  Хлебец Т.И.",
+        "idChair": 6
+      },
+      {
+        "idLecturer": 303,
+        "nameLecturer": "Римша В.И.",
+        "idChair": 6
+      }
+    ],
+    "subjects": [
+      {
+        "idSubject": 86,
+        "nameSubject": "Автоматизация почтово-кассовых операций",
+        "idChair": 6,
+        "eduLevel": 2,
+        "abnameSubject": "АПКО"
+      },
+      {
+        "idSubject": 87,
+        "nameSubject": "Банковские операции в почтовой связи",
+        "idChair": 6,
+        "eduLevel": 2,
+        "abnameSubject": "БОвПС"
+      },
+      {
+        "idSubject": 88,
+        "nameSubject": "Бухгалтерский учет в почтовой связи",
+        "idChair": 6,
+        "eduLevel": 2,
+        "abnameSubject": "БУвПС"
+      },
+      {
+        "idSubject": 89,
+        "nameSubject": "Деловая документация",
+        "idChair": 6,
+        "eduLevel": 2,
+        "abnameSubject": "ДД"
+      },
+      {
+        "idSubject": 90,
+        "nameSubject": "Защита населения и территории от чрезвычайных ситуаций",
+        "idChair": 6,
+        "eduLevel": 2,
+        "abnameSubject": "ЗНиТОЧС"
+      },
+      {
+        "idSubject": 91,
+        "nameSubject": "Информационно-технологические системы в почтовой связи",
+        "idChair": 6,
+        "eduLevel": 2,
+        "abnameSubject": "ИТСвПС"
+      },
+      {
+        "idSubject": 92,
+        "nameSubject": "Информационные технологии в почтовой связи",
+        "idChair": 6,
+        "eduLevel": 2,
+        "abnameSubject": "ИТвПС"
+      },
+      {
+        "idSubject": 93,
+        "nameSubject": "Коммерческая деятельность и маркетинг в почтовой связи",
+        "idChair": 6,
+        "eduLevel": 2,
+        "abnameSubject": "КДиМвПС"
+      },
+      {
+        "idSubject": 94,
+        "nameSubject": "Компьютерные сети",
+        "idChair": 6,
+        "eduLevel": 2,
+        "abnameSubject": "КС"
+      },
+      {
+        "idSubject": 95,
+        "nameSubject": "Менеджмент качества в почтовой связи",
+        "idChair": 6,
+        "eduLevel": 2,
+        "abnameSubject": "МКвПС"
+      },
+      {
+        "idSubject": 96,
+        "nameSubject": "Организация почтовой связи",
+        "idChair": 6,
+        "eduLevel": 2,
+        "abnameSubject": "ОПС"
+      },
+      {
+        "idSubject": 97,
+        "nameSubject": "Организация и технология  торговли на предприятиях почтовой связи",
+        "idChair": 6,
+        "eduLevel": 2,
+        "abnameSubject": "ОТТнППС"
+      },
+      {
+        "idSubject": 98,
+        "nameSubject": "Основы товароведения",
+        "idChair": 6,
+        "eduLevel": 2,
+        "abnameSubject": "ОТ"
+      },
+      {
+        "idSubject": 99,
+        "nameSubject": "Основы управления интеллектуальной собственностью",
+        "idChair": 6,
+        "eduLevel": 2,
+        "abnameSubject": "ОУИС"
+      },
+      {
+        "idSubject": 100,
+        "nameSubject": "Охрана труда",
+        "idChair": 6,
+        "eduLevel": 2,
+        "abnameSubject": "ОТ"
+      },
+      {
+        "idSubject": 101,
+        "nameSubject": "Почтовая безопасность",
+        "idChair": 6,
+        "eduLevel": 2,
+        "abnameSubject": "ПБ"
+      },
+      {
+        "idSubject": 102,
+        "nameSubject": "Техника и оборудование в почтовой связи",
+        "idChair": 6,
+        "eduLevel": 2,
+        "abnameSubject": "ТиОвПС"
+      },
+      {
+        "idSubject": 103,
+        "nameSubject": "Технология почтовой связи",
+        "idChair": 6,
+        "eduLevel": 2,
+        "abnameSubject": "ТПС"
+      },
+      {
+        "idSubject": 104,
+        "nameSubject": "Автоматизация почтово-кассовых операций",
+        "idChair": 6,
+        "eduLevel": 1,
+        "abnameSubject": "АПКО"
+      },
+      {
+        "idSubject": 105,
+        "nameSubject": "Банковские операции в почтовой связи",
+        "idChair": 6,
+        "eduLevel": 1,
+        "abnameSubject": "БОвП"
+      },
+      {
+        "idSubject": 106,
+        "nameSubject": "Безопасность жизнедеятельности человека",
+        "idChair": 6,
+        "eduLevel": 1,
+        "abnameSubject": "БЖЧ"
+      },
+      {
+        "idSubject": 107,
+        "nameSubject": "Internet - технологии",
+        "idChair": 6,
+        "eduLevel": 1,
+        "abnameSubject": "I-Т"
+      },
+      {
+        "idSubject": 108,
+        "nameSubject": "Информационно-технологические системы в почтовой связи",
+        "idChair": 6,
+        "eduLevel": 1,
+        "abnameSubject": "ИТСвПС"
+      },
+      {
+        "idSubject": 109,
+        "nameSubject": "Коммерческая деятельность и маркетинг в почтовой связи",
+        "idChair": 6,
+        "eduLevel": 1,
+        "abnameSubject": "КДиМвПС"
+      },
+      {
+        "idSubject": 110,
+        "nameSubject": "Логистика в почтовой связи",
+        "idChair": 6,
+        "eduLevel": 1,
+        "abnameSubject": "ЛвПС"
+      },
+      {
+        "idSubject": 111,
+        "nameSubject": "Международная почтовая связь",
+        "idChair": 6,
+        "eduLevel": 1,
+        "abnameSubject": "МПС"
+      },
+      {
+        "idSubject": 112,
+        "nameSubject": "Менеджмент качества в почтовой связи",
+        "idChair": 6,
+        "eduLevel": 1,
+        "abnameSubject": "МКвПС"
+      },
+      {
+        "idSubject": 113,
+        "nameSubject": "Организация и управление технологическими процессами в почтовой связи",
+        "idChair": 6,
+        "eduLevel": 1,
+        "abnameSubject": "ОиУТПвПС"
+      },
+      {
+        "idSubject": 114,
+        "nameSubject": "Организация производства и управление предприятием",
+        "idChair": 6,
+        "eduLevel": 1,
+        "abnameSubject": "ОПиУП"
+      },
+      {
+        "idSubject": 115,
+        "nameSubject": "Основы защиты информации и управления интеллектуальной собственностью",
+        "idChair": 6,
+        "eduLevel": 1,
+        "abnameSubject": "ОЗИиУИС"
+      },
+      {
+        "idSubject": 116,
+        "nameSubject": "Почтовая безопасность",
+        "idChair": 6,
+        "eduLevel": 1,
+        "abnameSubject": "ПБ"
+      },
+      {
+        "idSubject": 117,
+        "nameSubject": "Техническая механика",
+        "idChair": 6,
+        "eduLevel": 1,
+        "abnameSubject": "ТМ"
+      },
+      {
+        "idSubject": 118,
+        "nameSubject": "Управление технологическими процессами почтовой связи",
+        "idChair": 6,
+        "eduLevel": 1,
+        "abnameSubject": "УТППС"
+      },
+      {
+        "idSubject": 119,
+        "nameSubject": "Электронная почта и компьютерные сети",
+        "idChair": 6,
+        "eduLevel": 1,
+        "abnameSubject": "ЭПиКС"
+      },
+      {
+        "idSubject": 120,
+        "nameSubject": "Электронные приборы в почтовой связи",
+        "idChair": 6,
+        "eduLevel": 1,
+        "abnameSubject": "ЭПвПС"
+      },
+      {
+        "idSubject": 255,
+        "nameSubject": "Охрана труда",
+        "idChair": 6,
+        "eduLevel": 1,
+        "abnameSubject": "ОТ"
+      },
+      {
+        "idSubject": 261,
+        "nameSubject": "Техника и оборудование в почтовой связи",
+        "idChair": 6,
+        "eduLevel": 1,
+        "abnameSubject": "ТиОвПС"
+      },
+      {
+        "idSubject": 265,
+        "nameSubject": "Основы управления интеллектуальной собственностью",
+        "idChair": 6,
+        "eduLevel": 1,
+        "abnameSubject": "ОУИС"
+      },
+      {
+        "idSubject": 280,
+        "nameSubject": "Делопроизводство",
+        "idChair": 6,
+        "eduLevel": 1,
+        "abnameSubject": "Д"
+      },
+      {
+        "idSubject": 295,
+        "nameSubject": "Логистика  в почтовой связи",
+        "idChair": 6,
+        "eduLevel": 2,
+        "abnameSubject": "ЛвПС"
+      },
+      {
+        "idSubject": 296,
+        "nameSubject": "Электронный маркетинг в почтовой связи",
+        "idChair": 6,
+        "eduLevel": 2,
+        "abnameSubject": "ЭМ в ПС"
+      }
+    ]
+  },
+  {
+    "idChair": 7,
+    "nameChair": "Кафедра последипломного образования",
+    "lecturers": [
+      {
+        "idLecturer": 118,
+        "nameLecturer": "Баркун М.А.",
+        "idChair": 7
+      },
+      {
+        "idLecturer": 119,
+        "nameLecturer": "Ходасевич О.Р.",
+        "idChair": 7
+      },
+      {
+        "idLecturer": 120,
+        "nameLecturer": "Пацей Н.Е.",
+        "idChair": 7
+      },
+      {
+        "idLecturer": 121,
+        "nameLecturer": "Карпук С.П.",
+        "idChair": 7
+      },
+      {
+        "idLecturer": 122,
+        "nameLecturer": "Ильющенко С.Л.",
+        "idChair": 7
+      },
+      {
+        "idLecturer": 126,
+        "nameLecturer": "-",
+        "idChair": 7
+      }
+    ],
+    "subjects": []
+  },
+  {
+    "idChair": 8,
+    "nameChair": "Кафедра программного обеспечения сетей телекоммуникаций",
+    "lecturers": [
+      {
+        "idLecturer": 1,
+        "nameLecturer": "Рябычина О.П.",
+        "idChair": 8
+      },
+      {
+        "idLecturer": 2,
+        "nameLecturer": "Труханович Т.Л.",
+        "idChair": 8
+      },
+      {
+        "idLecturer": 3,
+        "nameLecturer": "доцент Рыбак В.А.",
+        "idChair": 8
+      },
+      {
+        "idLecturer": 123,
+        "nameLecturer": "Бондаренко В.Ф.",
+        "idChair": 8
+      },
+      {
+        "idLecturer": 124,
+        "nameLecturer": "доцент Боженков В.В.",
+        "idChair": 8
+      },
+      {
+        "idLecturer": 125,
+        "nameLecturer": "доцент Жданович С.В.",
+        "idChair": 8
+      },
+      {
+        "idLecturer": 128,
+        "nameLecturer": "доцент Новиков В.А.",
+        "idChair": 8
+      },
+      {
+        "idLecturer": 129,
+        "nameLecturer": "Балаш А.Н.",
+        "idChair": 8
+      },
+      {
+        "idLecturer": 130,
+        "nameLecturer": "Клещик Т.В.",
+        "idChair": 8
+      },
+      {
+        "idLecturer": 131,
+        "nameLecturer": "Каленик К.Г.",
+        "idChair": 8
+      },
+      {
+        "idLecturer": 132,
+        "nameLecturer": "Климович О.В.",
+        "idChair": 8
+      },
+      {
+        "idLecturer": 133,
+        "nameLecturer": "Куль Т.П.",
+        "idChair": 8
+      },
+      {
+        "idLecturer": 134,
+        "nameLecturer": "доцент Веруш А.И.",
+        "idChair": 8
+      },
+      {
+        "idLecturer": 135,
+        "nameLecturer": "Рудинская С.Р.",
+        "idChair": 8
+      },
+      {
+        "idLecturer": 136,
+        "nameLecturer": "Горбадей О.Ю.",
+        "idChair": 8
+      },
+      {
+        "idLecturer": 137,
+        "nameLecturer": "Саранчук В.Н.",
+        "idChair": 8
+      },
+      {
+        "idLecturer": 138,
+        "nameLecturer": "Раецкая Е.В.",
+        "idChair": 8
+      },
+      {
+        "idLecturer": 139,
+        "nameLecturer": "Стрельская В.В.",
+        "idChair": 8
+      },
+      {
+        "idLecturer": 140,
+        "nameLecturer": "Бакунов А.М.",
+        "idChair": 8
+      },
+      {
+        "idLecturer": 141,
+        "nameLecturer": "Бакунова О.М.",
+        "idChair": 8
+      },
+      {
+        "idLecturer": 142,
+        "nameLecturer": "Давидович О.М.",
+        "idChair": 8
+      },
+      {
+        "idLecturer": 143,
+        "nameLecturer": "Дроздовская Л.Э.",
+        "idChair": 8
+      },
+      {
+        "idLecturer": 144,
+        "nameLecturer": "Кучеров Н.Н.",
+        "idChair": 8
+      },
+      {
+        "idLecturer": 145,
+        "nameLecturer": "зав. каф. ПОСТ Рыбак В.А.",
+        "idChair": 8
+      },
+      {
+        "idLecturer": 217,
+        "nameLecturer": "доцент Воронов А.А.",
+        "idChair": 8
+      },
+      {
+        "idLecturer": 242,
+        "nameLecturer": "доцент Карпук А.А.",
+        "idChair": 8
+      },
+      {
+        "idLecturer": 248,
+        "nameLecturer": "профессор Курмашёв В.И.",
+        "idChair": 8
+      },
+      {
+        "idLecturer": 249,
+        "nameLecturer": "доцент Половеня С.И.",
+        "idChair": 8
+      },
+      {
+        "idLecturer": 250,
+        "nameLecturer": "доцент Скудняков Ю.А.",
+        "idChair": 8
+      },
+      {
+        "idLecturer": 251,
+        "nameLecturer": "профессор Лобатый А.А.",
+        "idChair": 8
+      },
+      {
+        "idLecturer": 252,
+        "nameLecturer": "ассистент Раецкая Е.В.",
+        "idChair": 8
+      },
+      {
+        "idLecturer": 253,
+        "nameLecturer": "ст. препод. Рудинская С.Р.",
+        "idChair": 8
+      },
+      {
+        "idLecturer": 254,
+        "nameLecturer": "доцент Бондаренко В.Ф.",
+        "idChair": 8
+      },
+      {
+        "idLecturer": 255,
+        "nameLecturer": "ст. препод. Труханович Т.Л.",
+        "idChair": 8
+      },
+      {
+        "idLecturer": 256,
+        "nameLecturer": "ст. препод. Рябычина О.П.",
+        "idChair": 8
+      },
+      {
+        "idLecturer": 257,
+        "nameLecturer": "доцент Новиков Е.В.",
+        "idChair": 8
+      },
+      {
+        "idLecturer": 258,
+        "nameLecturer": "ассистент Куль Т.П.",
+        "idChair": 8
+      },
+      {
+        "idLecturer": 298,
+        "nameLecturer": "Калитеня И.Л.",
+        "idChair": 8
+      },
+      {
+        "idLecturer": 299,
+        "nameLecturer": "Заянчковская О.М.",
+        "idChair": 8
+      }
+    ],
+    "subjects": [
+      {
+        "idSubject": 1,
+        "nameSubject": "Конструирование программ и языки программирования",
+        "idChair": 8,
+        "eduLevel": 1,
+        "abnameSubject": "КПиЯП"
+      },
+      {
+        "idSubject": 2,
+        "nameSubject": "Объектно-ориентированное программирование ",
+        "idChair": 8,
+        "eduLevel": 1,
+        "abnameSubject": "ООП"
+      },
+      {
+        "idSubject": 3,
+        "nameSubject": "Основы алгоритмизации и  программирования",
+        "idChair": 8,
+        "eduLevel": 1,
+        "abnameSubject": "ОАиП"
+      },
+      {
+        "idSubject": 121,
+        "nameSubject": "Операционные системы и базы данных",
+        "idChair": 8,
+        "eduLevel": 1,
+        "abnameSubject": "ОСиБД"
+      },
+      {
+        "idSubject": 122,
+        "nameSubject": "Системы коммутации каналов и пакетов",
+        "idChair": 8,
+        "eduLevel": 1,
+        "abnameSubject": "СККиП"
+      },
+      {
+        "idSubject": 123,
+        "nameSubject": "Современные языки программирования (факультатив)",
+        "idChair": 8,
+        "eduLevel": 1,
+        "abnameSubject": "СЯП(фк.)"
+      },
+      {
+        "idSubject": 124,
+        "nameSubject": "Технология разработки и сопровождения программного обеспечения",
+        "idChair": 8,
+        "eduLevel": 1,
+        "abnameSubject": "ТРиСПО"
+      },
+      {
+        "idSubject": 125,
+        "nameSubject": "Основы компьютерного моделирования электрических цепей",
+        "idChair": 8,
+        "eduLevel": 2,
+        "abnameSubject": "ОКМЭЦ"
+      },
+      {
+        "idSubject": 126,
+        "nameSubject": "Компьютерные технологии сетей телекоммуникаций",
+        "idChair": 8,
+        "eduLevel": 2,
+        "abnameSubject": "КТСТк"
+      },
+      {
+        "idSubject": 127,
+        "nameSubject": "Программирование",
+        "idChair": 8,
+        "eduLevel": 2,
+        "abnameSubject": "Программирование"
+      },
+      {
+        "idSubject": 128,
+        "nameSubject": "Эксплуатация программного обеспечения сетей телекоммуникаций",
+        "idChair": 8,
+        "eduLevel": 2,
+        "abnameSubject": "ЭПОСТк"
+      },
+      {
+        "idSubject": 129,
+        "nameSubject": "Объектно-ориентированное программирование",
+        "idChair": 8,
+        "eduLevel": 2,
+        "abnameSubject": "ООП"
+      },
+      {
+        "idSubject": 130,
+        "nameSubject": "Информационные системы и базы данных",
+        "idChair": 8,
+        "eduLevel": 2,
+        "abnameSubject": "ИСиБД"
+      },
+      {
+        "idSubject": 131,
+        "nameSubject": "Основы алгоритмизации и программирования",
+        "idChair": 8,
+        "eduLevel": 2,
+        "abnameSubject": "ОАиП"
+      },
+      {
+        "idSubject": 132,
+        "nameSubject": "Системы доступа к компьютерным и телекоммуникационным сетям",
+        "idChair": 8,
+        "eduLevel": 2,
+        "abnameSubject": "СДкКиТС"
+      },
+      {
+        "idSubject": 133,
+        "nameSubject": "Программное обеспечение сетей связи и языки моделирования",
+        "idChair": 8,
+        "eduLevel": 2,
+        "abnameSubject": "ПОССиЯМ"
+      },
+      {
+        "idSubject": 134,
+        "nameSubject": "Системное программное обеспечение",
+        "idChair": 8,
+        "eduLevel": 2,
+        "abnameSubject": "СПО"
+      },
+      {
+        "idSubject": 135,
+        "nameSubject": "Способы программирования",
+        "idChair": 8,
+        "eduLevel": 2,
+        "abnameSubject": "СП"
+      },
+      {
+        "idSubject": 136,
+        "nameSubject": "Архитектура ЭВМ и операционные системы",
+        "idChair": 8,
+        "eduLevel": 2,
+        "abnameSubject": "АЭиОС"
+      },
+      {
+        "idSubject": 137,
+        "nameSubject": "Математическое моделирование",
+        "idChair": 8,
+        "eduLevel": 2,
+        "abnameSubject": "ММ"
+      },
+      {
+        "idSubject": 138,
+        "nameSubject": "Модели данных и системы управления базами данных",
+        "idChair": 8,
+        "eduLevel": 2,
+        "abnameSubject": "МДиСУБД"
+      },
+      {
+        "idSubject": 139,
+        "nameSubject": "Технологии тестирования программного обеспечения",
+        "idChair": 8,
+        "eduLevel": 2,
+        "abnameSubject": "ТТПО"
+      },
+      {
+        "idSubject": 140,
+        "nameSubject": "Технологии разработки программного обеспечения",
+        "idChair": 8,
+        "eduLevel": 2,
+        "abnameSubject": "ТРПО"
+      },
+      {
+        "idSubject": 141,
+        "nameSubject": "Конструирование программ и языки программирования",
+        "idChair": 8,
+        "eduLevel": 2,
+        "abnameSubject": "КПиЯП"
+      },
+      {
+        "idSubject": 142,
+        "nameSubject": "Программирование для Интернет",
+        "idChair": 8,
+        "eduLevel": 2,
+        "abnameSubject": "ПДИ"
+      },
+      {
+        "idSubject": 143,
+        "nameSubject": "Автоматизированное тестирование программного обеспечения",
+        "idChair": 8,
+        "eduLevel": 2,
+        "abnameSubject": "АТПО"
+      },
+      {
+        "idSubject": 144,
+        "nameSubject": "Информационная безопасность телекоммуникационных систем",
+        "idChair": 8,
+        "eduLevel": 2,
+        "abnameSubject": "ИБТС"
+      },
+      {
+        "idSubject": 252,
+        "nameSubject": "Администрирование системного программного обеспечения",
+        "idChair": 8,
+        "eduLevel": 1,
+        "abnameSubject": "АСПО"
+      },
+      {
+        "idSubject": 253,
+        "nameSubject": "Основы разработки и сопровождение WEB-проектов",
+        "idChair": 8,
+        "eduLevel": 1,
+        "abnameSubject": "ОРиСWп"
+      },
+      {
+        "idSubject": 254,
+        "nameSubject": "Тестирование  программного обеспечения систем инфокоммуникаций",
+        "idChair": 8,
+        "eduLevel": 1,
+        "abnameSubject": "ТПОСИ"
+      },
+      {
+        "idSubject": 256,
+        "nameSubject": "Алгоритмы и базы",
+        "idChair": 8,
+        "eduLevel": 1,
+        "abnameSubject": "АиБ"
+      },
+      {
+        "idSubject": 259,
+        "nameSubject": "Информационная безопасность телекоммуникационных систем",
+        "idChair": 8,
+        "eduLevel": 1,
+        "abnameSubject": "ИБ"
+      },
+      {
+        "idSubject": 272,
+        "nameSubject": "Методы принятия решений в госудасртвенном управлении",
+        "idChair": 8,
+        "eduLevel": 1,
+        "abnameSubject": "МПРвГУ"
+      },
+      {
+        "idSubject": 273,
+        "nameSubject": "Государственное управление в условиях развития информационного общества",
+        "idChair": 8,
+        "eduLevel": 1,
+        "abnameSubject": "ГУвУРИО"
+      },
+      {
+        "idSubject": 281,
+        "nameSubject": "Информационные технологии электронного документооборота",
+        "idChair": 8,
+        "eduLevel": 1,
+        "abnameSubject": "ИТЭД"
+      },
+      {
+        "idSubject": 282,
+        "nameSubject": "Программирование в офисных приложениях",
+        "idChair": 8,
+        "eduLevel": 1,
+        "abnameSubject": "ПвОП"
+      },
+      {
+        "idSubject": 283,
+        "nameSubject": "Системы управления базами данных",
+        "idChair": 8,
+        "eduLevel": 1,
+        "abnameSubject": "СУБД"
+      },
+      {
+        "idSubject": 297,
+        "nameSubject": "Программное обеспечение мультимедийных систем",
+        "idChair": 8,
+        "eduLevel": 2,
+        "abnameSubject": "ПОМС"
+      },
+      {
+        "idSubject": 298,
+        "nameSubject": "Теория алгоритмов",
+        "idChair": 8,
+        "eduLevel": 2,
+        "abnameSubject": "ТА"
+      }
+    ]
+  },
+  {
+    "idChair": 9,
+    "nameChair": "Кафедра радио и информационных технологий",
+    "lecturers": [
+      {
+        "idLecturer": 146,
+        "nameLecturer": "профессор  Мельянец Г.И.",
+        "idChair": 9
+      },
+      {
+        "idLecturer": 147,
+        "nameLecturer": "доцент Алымова А.А.",
+        "idChair": 9
+      },
+      {
+        "idLecturer": 148,
+        "nameLecturer": "Асаёнок М.А.",
+        "idChair": 9
+      },
+      {
+        "idLecturer": 149,
+        "nameLecturer": "",
+        "idChair": 9
+      },
+      {
+        "idLecturer": 150,
+        "nameLecturer": "Бердяев В.С.",
+        "idChair": 9
+      },
+      {
+        "idLecturer": 151,
+        "nameLecturer": "",
+        "idChair": 9
+      },
+      {
+        "idLecturer": 152,
+        "nameLecturer": "Будько З.Н.",
+        "idChair": 9
+      },
+      {
+        "idLecturer": 153,
+        "nameLecturer": "",
+        "idChair": 9
+      },
+      {
+        "idLecturer": 154,
+        "nameLecturer": "Гридасова А.А.",
+        "idChair": 9
+      },
+      {
+        "idLecturer": 155,
+        "nameLecturer": "Дмитриева Т.П.",
+        "idChair": 9
+      },
+      {
+        "idLecturer": 156,
+        "nameLecturer": "Кабак Н.И.",
+        "idChair": 9
+      },
+      {
+        "idLecturer": 157,
+        "nameLecturer": "зав. каф. Мельянец Г.И,",
+        "idChair": 9
+      },
+      {
+        "idLecturer": 158,
+        "nameLecturer": "Киевец Н.Г.",
+        "idChair": 9
+      },
+      {
+        "idLecturer": 159,
+        "nameLecturer": "Кузик В.В.",
+        "idChair": 9
+      },
+      {
+        "idLecturer": 160,
+        "nameLecturer": "Масловский В.И.",
+        "idChair": 9
+      },
+      {
+        "idLecturer": 161,
+        "nameLecturer": "доцент Лагутин А.Е.",
+        "idChair": 9
+      },
+      {
+        "idLecturer": 162,
+        "nameLecturer": "Кочергина О.В.",
+        "idChair": 9
+      },
+      {
+        "idLecturer": 163,
+        "nameLecturer": "Позняк А.В.",
+        "idChair": 9
+      },
+      {
+        "idLecturer": 164,
+        "nameLecturer": "Прашкович Н.Г.",
+        "idChair": 9
+      },
+      {
+        "idLecturer": 165,
+        "nameLecturer": "Русакович Е.В.",
+        "idChair": 9
+      },
+      {
+        "idLecturer": 166,
+        "nameLecturer": "Терех И.Л.",
+        "idChair": 9
+      },
+      {
+        "idLecturer": 167,
+        "nameLecturer": "ассистент Ярук А.М.",
+        "idChair": 9
+      },
+      {
+        "idLecturer": 270,
+        "nameLecturer": "ст. препод. Прашкович Н.Г.",
+        "idChair": 9
+      },
+      {
+        "idLecturer": 271,
+        "nameLecturer": "ст. препод. Киевец Н.Г.",
+        "idChair": 9
+      },
+      {
+        "idLecturer": 272,
+        "nameLecturer": "профессор Кудрицкая Е.А. ",
+        "idChair": 9
+      },
+      {
+        "idLecturer": 273,
+        "nameLecturer": "профессор Вилькоцкий М.А.",
+        "idChair": 9
+      },
+      {
+        "idLecturer": 274,
+        "nameLecturer": "профессор Костюковский А.Г.",
+        "idChair": 9
+      },
+      {
+        "idLecturer": 304,
+        "nameLecturer": "Черная И.И.",
+        "idChair": 9
+      },
+      {
+        "idLecturer": 305,
+        "nameLecturer": "Чемерко Г.И.",
+        "idChair": 9
+      }
+    ],
+    "subjects": [
+      {
+        "idSubject": 145,
+        "nameSubject": "Теория электрической связи",
+        "idChair": 9,
+        "eduLevel": 1,
+        "abnameSubject": "ТЭС"
+      },
+      {
+        "idSubject": 146,
+        "nameSubject": "Цифровая обработка речи и изображения",
+        "idChair": 9,
+        "eduLevel": 1,
+        "abnameSubject": "ЦОРиИ"
+      },
+      {
+        "idSubject": 147,
+        "nameSubject": "Системы подвижной радиосвязи и компьютерные сети",
+        "idChair": 9,
+        "eduLevel": 1,
+        "abnameSubject": "СПРиКС"
+      },
+      {
+        "idSubject": 148,
+        "nameSubject": "Метрология, стандартизация и сертификация в телекоммуникациях",
+        "idChair": 9,
+        "eduLevel": 1,
+        "abnameSubject": "МСиСвТк"
+      },
+      {
+        "idSubject": 149,
+        "nameSubject": "Теория электрических цепей",
+        "idChair": 9,
+        "eduLevel": 2,
+        "abnameSubject": "ТЭЦ"
+      },
+      {
+        "idSubject": 150,
+        "nameSubject": "Теория электрической связи",
+        "idChair": 9,
+        "eduLevel": 2,
+        "abnameSubject": "ТЭС"
+      },
+      {
+        "idSubject": 151,
+        "nameSubject": "Основы электросвязи",
+        "idChair": 9,
+        "eduLevel": 2,
+        "abnameSubject": "ОЭ"
+      },
+      {
+        "idSubject": 152,
+        "nameSubject": "Радиоприемные устройства",
+        "idChair": 9,
+        "eduLevel": 2,
+        "abnameSubject": "РУ"
+      },
+      {
+        "idSubject": 153,
+        "nameSubject": "Радиопередающие устройства",
+        "idChair": 9,
+        "eduLevel": 2,
+        "abnameSubject": "РУ"
+      },
+      {
+        "idSubject": 154,
+        "nameSubject": "Распространение радиоволн и антенно-фидерные устройства",
+        "idChair": 9,
+        "eduLevel": 2,
+        "abnameSubject": "РРиАФУ"
+      },
+      {
+        "idSubject": 155,
+        "nameSubject": "Телевидение",
+        "idChair": 9,
+        "eduLevel": 2,
+        "abnameSubject": "Телевидение"
+      },
+      {
+        "idSubject": 156,
+        "nameSubject": "Основы телевидения",
+        "idChair": 9,
+        "eduLevel": 2,
+        "abnameSubject": "ОТ"
+      },
+      {
+        "idSubject": 157,
+        "nameSubject": "Звуковое и телевизионное вещание",
+        "idChair": 9,
+        "eduLevel": 2,
+        "abnameSubject": "ЗиТВ"
+      },
+      {
+        "idSubject": 158,
+        "nameSubject": "Системы и устройства подвижной связи",
+        "idChair": 9,
+        "eduLevel": 2,
+        "abnameSubject": "СиУПС"
+      },
+      {
+        "idSubject": 159,
+        "nameSubject": "Средства подвижной связи",
+        "idChair": 9,
+        "eduLevel": 2,
+        "abnameSubject": "СПС"
+      },
+      {
+        "idSubject": 160,
+        "nameSubject": "Спутниковые системы и ретрансляции радиосигналов",
+        "idChair": 9,
+        "eduLevel": 2,
+        "abnameSubject": "ССиРР"
+      },
+      {
+        "idSubject": 161,
+        "nameSubject": "Электропитание систем телекоммуникаций",
+        "idChair": 9,
+        "eduLevel": 2,
+        "abnameSubject": "ЭСТк"
+      },
+      {
+        "idSubject": 162,
+        "nameSubject": "Схемотехника и технологии проектирования функциональных устройств",
+        "idChair": 9,
+        "eduLevel": 2,
+        "abnameSubject": "СиТПФУ"
+      },
+      {
+        "idSubject": 163,
+        "nameSubject": "Основы радиосвязи, радиовещания и телевидения",
+        "idChair": 9,
+        "eduLevel": 2,
+        "abnameSubject": "ОРРиТ"
+      },
+      {
+        "idSubject": 164,
+        "nameSubject": "Терминальные устройства и документальные службы телекоммуникаций",
+        "idChair": 9,
+        "eduLevel": 2,
+        "abnameSubject": "ТУиДСТк"
+      },
+      {
+        "idSubject": 165,
+        "nameSubject": "Направляющие системы телекоммуникаций",
+        "idChair": 9,
+        "eduLevel": 2,
+        "abnameSubject": "НСТк"
+      },
+      {
+        "idSubject": 166,
+        "nameSubject": "Системы доступа к телекоммуникационным и компьютерным системам",
+        "idChair": 9,
+        "eduLevel": 2,
+        "abnameSubject": "СДкТиКС"
+      },
+      {
+        "idSubject": 167,
+        "nameSubject": "Электротехника",
+        "idChair": 9,
+        "eduLevel": 2,
+        "abnameSubject": "Электротехника"
+      },
+      {
+        "idSubject": 264,
+        "nameSubject": "Сети  подвижной связи ",
+        "idChair": 9,
+        "eduLevel": 1,
+        "abnameSubject": "СПС"
+      },
+      {
+        "idSubject": 284,
+        "nameSubject": "Беспроводные локальные и сенсорные сети",
+        "idChair": 9,
+        "eduLevel": 1,
+        "abnameSubject": "БЛиСС"
+      },
+      {
+        "idSubject": 285,
+        "nameSubject": "Метрология, стандартизация и сертификация в почтовой связи",
+        "idChair": 9,
+        "eduLevel": 1,
+        "abnameSubject": "МСиСвПС"
+      },
+      {
+        "idSubject": 286,
+        "nameSubject": "Надёжность инфокоммуникационных систем",
+        "idChair": 9,
+        "eduLevel": 1,
+        "abnameSubject": "НИкС"
+      },
+      {
+        "idSubject": 287,
+        "nameSubject": "Транспортные сети инфокоммуникаций",
+        "idChair": 9,
+        "eduLevel": 1,
+        "abnameSubject": "ТСИк"
+      },
+      {
+        "idSubject": 299,
+        "nameSubject": "Радиосистемы охраны и теленаблюдения",
+        "idChair": 9,
+        "eduLevel": 2,
+        "abnameSubject": "РСОиТн"
+      },
+      {
+        "idSubject": 300,
+        "nameSubject": "Системы радиосвязи, радионавигации и радиоопределения",
+        "idChair": 9,
+        "eduLevel": 2,
+        "abnameSubject": "СРРнРо"
+      },
+      {
+        "idSubject": 301,
+        "nameSubject": "Терминальные устройства ",
+        "idChair": 9,
+        "eduLevel": 2,
+        "abnameSubject": "ТУ"
+      },
+      {
+        "idSubject": 302,
+        "nameSubject": "Техническое обслуживание и ремонт радиосистем охраны и теленаблюдения",
+        "idChair": 9,
+        "eduLevel": 2,
+        "abnameSubject": "ТОиРРсОиТн"
+      },
+      {
+        "idSubject": 303,
+        "nameSubject": "Цифровое телевидение",
+        "idChair": 9,
+        "eduLevel": 2,
+        "abnameSubject": "ЦТ"
+      }
+    ]
+  },
+  {
+    "idChair": 10,
+    "nameChair": "Кафедра телекоммуникационных систем",
+    "lecturers": [
+      {
+        "idLecturer": 168,
+        "nameLecturer": "доцент Половеня С.И.",
+        "idChair": 10
+      },
+      {
+        "idLecturer": 169,
+        "nameLecturer": "доцент Соловьев В.В.",
+        "idChair": 10
+      },
+      {
+        "idLecturer": 170,
+        "nameLecturer": "доцент Алымова А.А.",
+        "idChair": 10
+      },
+      {
+        "idLecturer": 171,
+        "nameLecturer": "доцент Кудрицкая Е.А.",
+        "idChair": 10
+      },
+      {
+        "idLecturer": 172,
+        "nameLecturer": "доцент Костюковский А.Г.",
+        "idChair": 10
+      },
+      {
+        "idLecturer": 173,
+        "nameLecturer": "профессор Баркун М.А.",
+        "idChair": 10
+      },
+      {
+        "idLecturer": 174,
+        "nameLecturer": "профессор ДзержинскийС.М.",
+        "idChair": 10
+      },
+      {
+        "idLecturer": 175,
+        "nameLecturer": "ст. препод. Ленковец Е.А.",
+        "idChair": 10
+      },
+      {
+        "idLecturer": 176,
+        "nameLecturer": "Дубчёнок А.О.",
+        "idChair": 10
+      },
+      {
+        "idLecturer": 177,
+        "nameLecturer": "ст. препод. Кушнир-Северина А.П.",
+        "idChair": 10
+      },
+      {
+        "idLecturer": 178,
+        "nameLecturer": "Волчек А.Д,",
+        "idChair": 10
+      },
+      {
+        "idLecturer": 179,
+        "nameLecturer": "Семененко М.И.",
+        "idChair": 10
+      },
+      {
+        "idLecturer": 180,
+        "nameLecturer": "Кот Л.М.",
+        "idChair": 10
+      },
+      {
+        "idLecturer": 181,
+        "nameLecturer": "Куприянова И.В.",
+        "idChair": 10
+      },
+      {
+        "idLecturer": 182,
+        "nameLecturer": "Лис М.С.",
+        "idChair": 10
+      },
+      {
+        "idLecturer": 183,
+        "nameLecturer": "Мясникова В.В.",
+        "idChair": 10
+      },
+      {
+        "idLecturer": 184,
+        "nameLecturer": "Зеленя В.М.",
+        "idChair": 10
+      },
+      {
+        "idLecturer": 185,
+        "nameLecturer": "Дуйнова Ю.А.",
+        "idChair": 10
+      },
+      {
+        "idLecturer": 186,
+        "nameLecturer": "Новикова С.К.",
+        "idChair": 10
+      },
+      {
+        "idLecturer": 187,
+        "nameLecturer": "Левданская Е.С.",
+        "idChair": 10
+      },
+      {
+        "idLecturer": 188,
+        "nameLecturer": "Казакова Н.А.",
+        "idChair": 10
+      },
+      {
+        "idLecturer": 189,
+        "nameLecturer": "Давыдович Р.Н.",
+        "idChair": 10
+      },
+      {
+        "idLecturer": 190,
+        "nameLecturer": "Рогач К.Г.",
+        "idChair": 10
+      },
+      {
+        "idLecturer": 191,
+        "nameLecturer": "Скороход Т.К.",
+        "idChair": 10
+      },
+      {
+        "idLecturer": 192,
+        "nameLecturer": "Пытель С.Л.",
+        "idChair": 10
+      },
+      {
+        "idLecturer": 193,
+        "nameLecturer": "Соломенник Н.Ф.",
+        "idChair": 10
+      },
+      {
+        "idLecturer": 194,
+        "nameLecturer": "Хамицевич Н.В.",
+        "idChair": 10
+      },
+      {
+        "idLecturer": 195,
+        "nameLecturer": "ст. препод. Дубчёнок А.О.",
+        "idChair": 10
+      },
+      {
+        "idLecturer": 234,
+        "nameLecturer": "Котухов А.В.",
+        "idChair": 10
+      },
+      {
+        "idLecturer": 235,
+        "nameLecturer": "доцент Лагутин  А. Е.",
+        "idChair": 10
+      },
+      {
+        "idLecturer": 241,
+        "nameLecturer": "ст. препод. Рыжиков В.В.",
+        "idChair": 10
+      },
+      {
+        "idLecturer": 259,
+        "nameLecturer": "зав. каф. ТКС Половеня С.И.",
+        "idChair": 10
+      },
+      {
+        "idLecturer": 260,
+        "nameLecturer": "ст. препод. Кот Л.М.",
+        "idChair": 10
+      },
+      {
+        "idLecturer": 261,
+        "nameLecturer": "ст. препод. Котухов А.В.",
+        "idChair": 10
+      },
+      {
+        "idLecturer": 262,
+        "nameLecturer": "ст. препод. Ленковец Е.А.",
+        "idChair": 10
+      },
+      {
+        "idLecturer": 300,
+        "nameLecturer": "Собчук Н.С.",
+        "idChair": 10
+      },
+      {
+        "idLecturer": 301,
+        "nameLecturer": "Савощик А.А.",
+        "idChair": 10
+      },
+      {
+        "idLecturer": 302,
+        "nameLecturer": "Алымова А.А.",
+        "idChair": 10
+      }
+    ],
+    "subjects": [
+      {
+        "idSubject": 168,
+        "nameSubject": "Основы телекоммуникаций",
+        "idChair": 10,
+        "eduLevel": 2,
+        "abnameSubject": "ОТк"
+      },
+      {
+        "idSubject": 169,
+        "nameSubject": "Техническая электроника",
+        "idChair": 10,
+        "eduLevel": 2,
+        "abnameSubject": "ТЭ"
+      },
+      {
+        "idSubject": 170,
+        "nameSubject": "Электронные приборы",
+        "idChair": 10,
+        "eduLevel": 2,
+        "abnameSubject": "ЭП"
+      },
+      {
+        "idSubject": 171,
+        "nameSubject": "Метрология и измерения",
+        "idChair": 10,
+        "eduLevel": 2,
+        "abnameSubject": "МиИ"
+      },
+      {
+        "idSubject": 172,
+        "nameSubject": "Сети телекоммуникаций",
+        "idChair": 10,
+        "eduLevel": 2,
+        "abnameSubject": "СТк"
+      },
+      {
+        "idSubject": 173,
+        "nameSubject": "Основы построения систем и сетей телекоммуникаций",
+        "idChair": 10,
+        "eduLevel": 2,
+        "abnameSubject": "ОПСиСТк"
+      },
+      {
+        "idSubject": 174,
+        "nameSubject": "Коммутационные станции сетей телекоммуникаций",
+        "idChair": 10,
+        "eduLevel": 2,
+        "abnameSubject": "КССТк"
+      },
+      {
+        "idSubject": 175,
+        "nameSubject": "Многоканальные системы передачи",
+        "idChair": 10,
+        "eduLevel": 2,
+        "abnameSubject": "МСП"
+      },
+      {
+        "idSubject": 176,
+        "nameSubject": "Сетевые технологии в телекоммуникациях",
+        "idChair": 10,
+        "eduLevel": 2,
+        "abnameSubject": "СТвТк"
+      },
+      {
+        "idSubject": 177,
+        "nameSubject": "Управляющие комплексы и протоколы управления в сетях телекоммуникаций",
+        "idChair": 10,
+        "eduLevel": 2,
+        "abnameSubject": "УКиПУвСТк"
+      },
+      {
+        "idSubject": 178,
+        "nameSubject": "Оптоэлектроника",
+        "idChair": 10,
+        "eduLevel": 2,
+        "abnameSubject": "Оптоэлектроника"
+      },
+      {
+        "idSubject": 179,
+        "nameSubject": "Техническая эксплуатация коммутационных станций и сетей телекоммуникаций",
+        "idChair": 10,
+        "eduLevel": 2,
+        "abnameSubject": "ТЭКСиСТк"
+      },
+      {
+        "idSubject": 180,
+        "nameSubject": "Техническая эксплуатация систем передачи информации",
+        "idChair": 10,
+        "eduLevel": 2,
+        "abnameSubject": "ТЭСПИ"
+      },
+      {
+        "idSubject": 181,
+        "nameSubject": "Оборудование и технология строительства линейных сооружений связи",
+        "idChair": 10,
+        "eduLevel": 2,
+        "abnameSubject": "ОиТСЛСС"
+      },
+      {
+        "idSubject": 182,
+        "nameSubject": "Структурированные кабельные системы",
+        "idChair": 10,
+        "eduLevel": 2,
+        "abnameSubject": "СКС"
+      },
+      {
+        "idSubject": 183,
+        "nameSubject": "Протоколы управления в сетях телекоммуникаций",
+        "idChair": 10,
+        "eduLevel": 2,
+        "abnameSubject": "ПУвСТк"
+      },
+      {
+        "idSubject": 184,
+        "nameSubject": "Техническая эксплуатация сетей телекоммуникаций",
+        "idChair": 10,
+        "eduLevel": 2,
+        "abnameSubject": "ТЭСТк"
+      },
+      {
+        "idSubject": 185,
+        "nameSubject": "Техническая эксплуатация многоканальных систем передачи",
+        "idChair": 10,
+        "eduLevel": 2,
+        "abnameSubject": "ТЭМСП"
+      },
+      {
+        "idSubject": 186,
+        "nameSubject": "Проектирование и техническая эксплуатация направляющих систем телекоммуникаций",
+        "idChair": 10,
+        "eduLevel": 2,
+        "abnameSubject": "ПиТЭНСТк"
+      },
+      {
+        "idSubject": 187,
+        "nameSubject": "Специзмерения в направляющих системах и защита информации",
+        "idChair": 10,
+        "eduLevel": 2,
+        "abnameSubject": "СвНСиЗИ"
+      },
+      {
+        "idSubject": 188,
+        "nameSubject": "Основы технической эксплуатации сетей телекоммуникаций",
+        "idChair": 10,
+        "eduLevel": 2,
+        "abnameSubject": "ОТЭСТк"
+      },
+      {
+        "idSubject": 189,
+        "nameSubject": "Высокоскоростные технологии сетей телекоммуникаций",
+        "idChair": 10,
+        "eduLevel": 1,
+        "abnameSubject": "ВТСТк"
+      },
+      {
+        "idSubject": 190,
+        "nameSubject": "Мультисервисные сети телекоммуникаций",
+        "idChair": 10,
+        "eduLevel": 1,
+        "abnameSubject": "МСТк"
+      },
+      {
+        "idSubject": 191,
+        "nameSubject": "Сетевые протоколы в инфокоммуникациях",
+        "idChair": 10,
+        "eduLevel": 1,
+        "abnameSubject": "СПв Ик"
+      },
+      {
+        "idSubject": 192,
+        "nameSubject": "Сигнализация в инфокоммуникационных сетях",
+        "idChair": 10,
+        "eduLevel": 1,
+        "abnameSubject": "СвИкС"
+      },
+      {
+        "idSubject": 193,
+        "nameSubject": "Сети телекоммуникаций",
+        "idChair": 10,
+        "eduLevel": 1,
+        "abnameSubject": "СТк"
+      },
+      {
+        "idSubject": 194,
+        "nameSubject": "Технологии управления предприятиями, системами и сетями телекоммуникаций",
+        "idChair": 10,
+        "eduLevel": 1,
+        "abnameSubject": "ТУПСиСТк"
+      },
+      {
+        "idSubject": 195,
+        "nameSubject": "Основы теории телетрафика",
+        "idChair": 10,
+        "eduLevel": 1,
+        "abnameSubject": "ОТТ"
+      },
+      {
+        "idSubject": 196,
+        "nameSubject": "Основы построения инфокоммуникационных систем и сетей",
+        "idChair": 10,
+        "eduLevel": 1,
+        "abnameSubject": "ОПИСиС"
+      },
+      {
+        "idSubject": 197,
+        "nameSubject": "Теория кодирования",
+        "idChair": 10,
+        "eduLevel": 1,
+        "abnameSubject": "ТК"
+      },
+      {
+        "idSubject": 198,
+        "nameSubject": "Техническая эксплуатация систем коммутации и передачи",
+        "idChair": 10,
+        "eduLevel": 1,
+        "abnameSubject": "ТЭСКиП"
+      },
+      {
+        "idSubject": 199,
+        "nameSubject": "Техническая эксплуатация сетей телекоммуникаций",
+        "idChair": 10,
+        "eduLevel": 1,
+        "abnameSubject": "ТЭСТкк"
+      },
+      {
+        "idSubject": 200,
+        "nameSubject": "Транспортные сети инфокоммуникаций",
+        "idChair": 10,
+        "eduLevel": 1,
+        "abnameSubject": "ТСИк"
+      },
+      {
+        "idSubject": 201,
+        "nameSubject": "Управление сетями и объектами инфокоммуникаций",
+        "idChair": 10,
+        "eduLevel": 1,
+        "abnameSubject": "УСиОИ"
+      },
+      {
+        "idSubject": 262,
+        "nameSubject": "Направляющие среды и цифровые системы передачи",
+        "idChair": 10,
+        "eduLevel": 1,
+        "abnameSubject": "НСиЦСП"
+      },
+      {
+        "idSubject": 263,
+        "nameSubject": "Сигнализация в инфокоммуникациях",
+        "idChair": 10,
+        "eduLevel": 1,
+        "abnameSubject": "Св Ик"
+      },
+      {
+        "idSubject": 266,
+        "nameSubject": "Надежность инфокоммуникационных систем",
+        "idChair": 10,
+        "eduLevel": 1,
+        "abnameSubject": "НИС"
+      },
+      {
+        "idSubject": 267,
+        "nameSubject": "Техническая электроника",
+        "idChair": 10,
+        "eduLevel": 1,
+        "abnameSubject": "ТЭ"
+      },
+      {
+        "idSubject": 288,
+        "nameSubject": "Корпоративные мультисервисные сети",
+        "idChair": 10,
+        "eduLevel": 1,
+        "abnameSubject": "КМС"
+      },
+      {
+        "idSubject": 289,
+        "nameSubject": "Структура инфокоммуникационных систем и сетей",
+        "idChair": 10,
+        "eduLevel": 1,
+        "abnameSubject": "СИкСиС"
+      },
+      {
+        "idSubject": 290,
+        "nameSubject": "Теория телетрафика",
+        "idChair": 10,
+        "eduLevel": 1,
+        "abnameSubject": "ТТт"
+      },
+      {
+        "idSubject": 291,
+        "nameSubject": "Топология инфокоммуникационных сетей",
+        "idChair": 10,
+        "eduLevel": 1,
+        "abnameSubject": "ТИкС"
+      },
+      {
+        "idSubject": 292,
+        "nameSubject": "Электронные приборы",
+        "idChair": 10,
+        "eduLevel": 1,
+        "abnameSubject": "ЭП"
+      },
+      {
+        "idSubject": 304,
+        "nameSubject": "Направляющие системы телекоммуникаций",
+        "idChair": 10,
+        "eduLevel": 2,
+        "abnameSubject": "НСТк"
+      }
+    ]
+  },
+  {
+    "idChair": 11,
+    "nameChair": "Кафедра экономики и управления",
+    "lecturers": [
+      {
+        "idLecturer": 196,
+        "nameLecturer": "доцент Домакур О.В.",
+        "idChair": 11
+      },
+      {
+        "idLecturer": 197,
+        "nameLecturer": "профессор Михайлова-Станюта И.А.",
+        "idChair": 11
+      },
+      {
+        "idLecturer": 198,
+        "nameLecturer": "профессор Вишняков В.А.",
+        "idChair": 11
+      },
+      {
+        "idLecturer": 199,
+        "nameLecturer": "профессор Кобринский Г.Е.",
+        "idChair": 11
+      },
+      {
+        "idLecturer": 200,
+        "nameLecturer": "доцент Будник А.В.",
+        "idChair": 11
+      },
+      {
+        "idLecturer": 201,
+        "nameLecturer": "доцент Дронин А.М.",
+        "idChair": 11
+      },
+      {
+        "idLecturer": 202,
+        "nameLecturer": "доцент Залесская Л.Е.",
+        "idChair": 11
+      },
+      {
+        "idLecturer": 203,
+        "nameLecturer": "доцент Романова Е.С.",
+        "idChair": 11
+      },
+      {
+        "idLecturer": 204,
+        "nameLecturer": "профессор Петрович М.В.",
+        "idChair": 11
+      },
+      {
+        "idLecturer": 205,
+        "nameLecturer": "ст. препод. Витковская О.Н.",
+        "idChair": 11
+      },
+      {
+        "idLecturer": 206,
+        "nameLecturer": "Кравченко Ю.Р.",
+        "idChair": 11
+      },
+      {
+        "idLecturer": 207,
+        "nameLecturer": "ст. препод. Михинова Л.М.",
+        "idChair": 11
+      },
+      {
+        "idLecturer": 208,
+        "nameLecturer": "ст. препод. Рокшина И.Г.",
+        "idChair": 11
+      },
+      {
+        "idLecturer": 209,
+        "nameLecturer": "ст. препод. Щербакова С.Г.",
+        "idChair": 11
+      },
+      {
+        "idLecturer": 210,
+        "nameLecturer": "Демидович И.А.",
+        "idChair": 11
+      },
+      {
+        "idLecturer": 211,
+        "nameLecturer": "Десюкевич И.Л.",
+        "idChair": 11
+      },
+      {
+        "idLecturer": 212,
+        "nameLecturer": "Лизунок О.Н.",
+        "idChair": 11
+      },
+      {
+        "idLecturer": 213,
+        "nameLecturer": "ассистент Гореликова Е.С.",
+        "idChair": 11
+      },
+      {
+        "idLecturer": 214,
+        "nameLecturer": "доцент Лысенкова М.В.",
+        "idChair": 11
+      },
+      {
+        "idLecturer": 215,
+        "nameLecturer": "доцент Рымкевич В.В.",
+        "idChair": 11
+      },
+      {
+        "idLecturer": 216,
+        "nameLecturer": "Гореликова Е.С.",
+        "idChair": 11
+      },
+      {
+        "idLecturer": 222,
+        "nameLecturer": "Лагутина  О.И.",
+        "idChair": 11
+      },
+      {
+        "idLecturer": 223,
+        "nameLecturer": "доцент Лапцевич  А.А.",
+        "idChair": 11
+      },
+      {
+        "idLecturer": 225,
+        "nameLecturer": "ст. препод. Колбун Т. В.",
+        "idChair": 11
+      },
+      {
+        "idLecturer": 227,
+        "nameLecturer": "доцент Напольская Н.А.",
+        "idChair": 11
+      },
+      {
+        "idLecturer": 228,
+        "nameLecturer": "ассистент Качан А.С.",
+        "idChair": 11
+      },
+      {
+        "idLecturer": 230,
+        "nameLecturer": "ассистент Десюкевич И.Л.",
+        "idChair": 11
+      },
+      {
+        "idLecturer": 231,
+        "nameLecturer": "ассистент Табала М.М.",
+        "idChair": 11
+      },
+      {
+        "idLecturer": 236,
+        "nameLecturer": "ст. препод. Шиян-Фролова О. Л.",
+        "idChair": 11
+      },
+      {
+        "idLecturer": 237,
+        "nameLecturer": "ст. препод. Романюк Е.М.",
+        "idChair": 11
+      },
+      {
+        "idLecturer": 238,
+        "nameLecturer": "ассистент Федорович О.А.",
+        "idChair": 11
+      },
+      {
+        "idLecturer": 264,
+        "nameLecturer": "",
+        "idChair": 11
+      },
+      {
+        "idLecturer": 265,
+        "nameLecturer": "ст. препод. Лагутина  О.И.",
+        "idChair": 11
+      },
+      {
+        "idLecturer": 266,
+        "nameLecturer": "ассистент Лизунок О.Н.",
+        "idChair": 11
+      },
+      {
+        "idLecturer": 267,
+        "nameLecturer": "ассистент Демидович И.А.",
+        "idChair": 11
+      },
+      {
+        "idLecturer": 268,
+        "nameLecturer": "ст. препод. Кравченко Ю.Р.",
+        "idChair": 11
+      },
+      {
+        "idLecturer": 269,
+        "nameLecturer": "Лизунок И.В.",
+        "idChair": 11
+      },
+      {
+        "idLecturer": 297,
+        "nameLecturer": "Рыжанкова И.В.",
+        "idChair": 11
+      },
+      {
+        "idLecturer": 306,
+        "nameLecturer": "зав.кафедрой ЭиУ Рымкевич В.В.",
+        "idChair": 11
+      },
+      {
+        "idLecturer": 308,
+        "nameLecturer": "Шкатуло А.Н.",
+        "idChair": 11
+      }
+    ],
+    "subjects": [
+      {
+        "idSubject": 202,
+        "nameSubject": "Деловая документация",
+        "idChair": 11,
+        "eduLevel": 2,
+        "abnameSubject": "ДД"
+      },
+      {
+        "idSubject": 203,
+        "nameSubject": "Основы маркетинга",
+        "idChair": 11,
+        "eduLevel": 2,
+        "abnameSubject": "ОМ"
+      },
+      {
+        "idSubject": 204,
+        "nameSubject": "Основы менеджмента",
+        "idChair": 11,
+        "eduLevel": 2,
+        "abnameSubject": "ОМ"
+      },
+      {
+        "idSubject": 205,
+        "nameSubject": "Экономика организации",
+        "idChair": 11,
+        "eduLevel": 2,
+        "abnameSubject": "ЭО"
+      },
+      {
+        "idSubject": 206,
+        "nameSubject": "Анализ и планирование маркетинговой деятельности в организациях связи",
+        "idChair": 11,
+        "eduLevel": 1,
+        "abnameSubject": "АиПМДвОС"
+      },
+      {
+        "idSubject": 207,
+        "nameSubject": "Анализ хозяйственной деятельности",
+        "idChair": 11,
+        "eduLevel": 1,
+        "abnameSubject": "АХД"
+      },
+      {
+        "idSubject": 208,
+        "nameSubject": "Бизнес-планирование в организациях связи",
+        "idChair": 11,
+        "eduLevel": 1,
+        "abnameSubject": "БПвОС"
+      },
+      {
+        "idSubject": 209,
+        "nameSubject": "Бухгалтерские пакеты прикладных программ в организациях связи",
+        "idChair": 11,
+        "eduLevel": 1,
+        "abnameSubject": "БПППвОС"
+      },
+      {
+        "idSubject": 210,
+        "nameSubject": "Бухгалтерский учёт и анализ",
+        "idChair": 11,
+        "eduLevel": 1,
+        "abnameSubject": "БУиА"
+      },
+      {
+        "idSubject": 211,
+        "nameSubject": "Бухгалтерский учет в почтовой связи",
+        "idChair": 11,
+        "eduLevel": 1,
+        "abnameSubject": "БУвПС"
+      },
+      {
+        "idSubject": 212,
+        "nameSubject": "Информационный менеджмент в организациях связи",
+        "idChair": 11,
+        "eduLevel": 1,
+        "abnameSubject": "ИМв ОС"
+      },
+      {
+        "idSubject": 213,
+        "nameSubject": "Информационное обеспечение маркетинга в организациях связи",
+        "idChair": 11,
+        "eduLevel": 1,
+        "abnameSubject": "ИОМвОС"
+      },
+      {
+        "idSubject": 214,
+        "nameSubject": "История экономических учений/история науки и техники",
+        "idChair": 11,
+        "eduLevel": 1,
+        "abnameSubject": "ИЭУНиТ"
+      },
+      {
+        "idSubject": 215,
+        "nameSubject": "Информационный менеджмент в организациях связи",
+        "idChair": 11,
+        "eduLevel": 1,
+        "abnameSubject": "ИМвОС"
+      },
+      {
+        "idSubject": 216,
+        "nameSubject": "Логистика",
+        "idChair": 11,
+        "eduLevel": 1,
+        "abnameSubject": "Логистика"
+      },
+      {
+        "idSubject": 217,
+        "nameSubject": "Макроэкономика",
+        "idChair": 11,
+        "eduLevel": 1,
+        "abnameSubject": "МакрЭк."
+      },
+      {
+        "idSubject": 218,
+        "nameSubject": "Маркетинг (теория)",
+        "idChair": 11,
+        "eduLevel": 1,
+        "abnameSubject": "Маркетинг(т.)"
+      },
+      {
+        "idSubject": 219,
+        "nameSubject": "Маркетинг (стратегический)",
+        "idChair": 11,
+        "eduLevel": 1,
+        "abnameSubject": "Маркетинг(стр.)"
+      },
+      {
+        "idSubject": 220,
+        "nameSubject": "Маркетинг (международный)",
+        "idChair": 11,
+        "eduLevel": 1,
+        "abnameSubject": "Маркетинг(м.)"
+      },
+      {
+        "idSubject": 221,
+        "nameSubject": "Маркетинг и ценообразование",
+        "idChair": 11,
+        "eduLevel": 1,
+        "abnameSubject": "МиЦ"
+      },
+      {
+        "idSubject": 222,
+        "nameSubject": "Маркетинг инноваций",
+        "idChair": 11,
+        "eduLevel": 1,
+        "abnameSubject": "МИ"
+      },
+      {
+        "idSubject": 223,
+        "nameSubject": "Маркетинговые исследования",
+        "idChair": 11,
+        "eduLevel": 1,
+        "abnameSubject": "МИ"
+      },
+      {
+        "idSubject": 224,
+        "nameSubject": "Маркетинговые коммуникации",
+        "idChair": 11,
+        "eduLevel": 1,
+        "abnameSubject": "МК"
+      },
+      {
+        "idSubject": 225,
+        "nameSubject": "Международная экономика",
+        "idChair": 11,
+        "eduLevel": 1,
+        "abnameSubject": "МЭ"
+      },
+      {
+        "idSubject": 226,
+        "nameSubject": "Международный маркетинг",
+        "idChair": 11,
+        "eduLevel": 1,
+        "abnameSubject": "ММ"
+      },
+      {
+        "idSubject": 227,
+        "nameSubject": "Менеджмент",
+        "idChair": 11,
+        "eduLevel": 1,
+        "abnameSubject": "Менеджмент"
+      },
+      {
+        "idSubject": 228,
+        "nameSubject": "Микроэкономика",
+        "idChair": 11,
+        "eduLevel": 1,
+        "abnameSubject": "Микроэкономика"
+      },
+      {
+        "idSubject": 229,
+        "nameSubject": "Налоги и налогообложение",
+        "idChair": 11,
+        "eduLevel": 1,
+        "abnameSubject": "НиН"
+      },
+      {
+        "idSubject": 230,
+        "nameSubject": "Национальная экономика Беларуси",
+        "idChair": 11,
+        "eduLevel": 1,
+        "abnameSubject": "НЭБ"
+      },
+      {
+        "idSubject": 231,
+        "nameSubject": "Организация производства",
+        "idChair": 11,
+        "eduLevel": 1,
+        "abnameSubject": "ОП"
+      },
+      {
+        "idSubject": 232,
+        "nameSubject": "Обязательный модуль \"Экономика\": Экономическая теория",
+        "idChair": 11,
+        "eduLevel": 1,
+        "abnameSubject": "ОМ\"ЭТ\""
+      },
+      {
+        "idSubject": 233,
+        "nameSubject": "Основы интернет-маркетинга и электронной коммерции",
+        "idChair": 11,
+        "eduLevel": 1,
+        "abnameSubject": "ОИМиЭК"
+      },
+      {
+        "idSubject": 234,
+        "nameSubject": "Основы бизнеса и права",
+        "idChair": 11,
+        "eduLevel": 1,
+        "abnameSubject": "ОБиП"
+      },
+      {
+        "idSubject": 235,
+        "nameSubject": "Основы бизнеса и права в инфокоммуникациях",
+        "idChair": 11,
+        "eduLevel": 1,
+        "abnameSubject": "ОБиПвИ"
+      },
+      {
+        "idSubject": 236,
+        "nameSubject": "Прогнозирование и планирование экономики",
+        "idChair": 11,
+        "eduLevel": 1,
+        "abnameSubject": "ПиПЭ"
+      },
+      {
+        "idSubject": 237,
+        "nameSubject": "Статистика",
+        "idChair": 11,
+        "eduLevel": 1,
+        "abnameSubject": "Статистика"
+      },
+      {
+        "idSubject": 238,
+        "nameSubject": "Управление маркетингом услуг в отрасли связи",
+        "idChair": 11,
+        "eduLevel": 1,
+        "abnameSubject": "УМУвОС"
+      },
+      {
+        "idSubject": 239,
+        "nameSubject": "Управление персоналом",
+        "idChair": 11,
+        "eduLevel": 1,
+        "abnameSubject": "УП"
+      },
+      {
+        "idSubject": 240,
+        "nameSubject": "Управление хозяйственными рисками",
+        "idChair": 11,
+        "eduLevel": 1,
+        "abnameSubject": "УХР"
+      },
+      {
+        "idSubject": 241,
+        "nameSubject": "Финансы и статистика в организациях связи",
+        "idChair": 11,
+        "eduLevel": 1,
+        "abnameSubject": "ФиСвОС"
+      },
+      {
+        "idSubject": 242,
+        "nameSubject": "Финансы и финансовый рынок",
+        "idChair": 11,
+        "eduLevel": 1,
+        "abnameSubject": "ФиФР"
+      },
+      {
+        "idSubject": 243,
+        "nameSubject": "Формирование тарифов на услуги связи",
+        "idChair": 11,
+        "eduLevel": 1,
+        "abnameSubject": "ФТНУС"
+      },
+      {
+        "idSubject": 244,
+        "nameSubject": "Ценообразование",
+        "idChair": 11,
+        "eduLevel": 1,
+        "abnameSubject": "Ценообр."
+      },
+      {
+        "idSubject": 245,
+        "nameSubject": "Экономика и управление инновациями",
+        "idChair": 11,
+        "eduLevel": 1,
+        "abnameSubject": "ЭиУИ"
+      },
+      {
+        "idSubject": 246,
+        "nameSubject": "Экономика организации (предприятия)",
+        "idChair": 11,
+        "eduLevel": 1,
+        "abnameSubject": "ЭО(пр.)"
+      },
+      {
+        "idSubject": 247,
+        "nameSubject": "Экономика организации",
+        "idChair": 11,
+        "eduLevel": 1,
+        "abnameSubject": "ЭО"
+      },
+      {
+        "idSubject": 248,
+        "nameSubject": "Экономика природопользования",
+        "idChair": 11,
+        "eduLevel": 1,
+        "abnameSubject": "ЭП"
+      },
+      {
+        "idSubject": 249,
+        "nameSubject": "Экономическая социология",
+        "idChair": 11,
+        "eduLevel": 1,
+        "abnameSubject": "ЭС"
+      },
+      {
+        "idSubject": 250,
+        "nameSubject": "Экономическая теория(Обязательнеый модуль)",
+        "idChair": 11,
+        "eduLevel": 1,
+        "abnameSubject": "ЭТ"
+      },
+      {
+        "idSubject": 251,
+        "nameSubject": "Экономическая история",
+        "idChair": 11,
+        "eduLevel": 1,
+        "abnameSubject": "ЭИ"
+      },
+      {
+        "idSubject": 260,
+        "nameSubject": "Основы менеджмента",
+        "idChair": 11,
+        "eduLevel": 1,
+        "abnameSubject": "ОМ"
+      },
+      {
+        "idSubject": 293,
+        "nameSubject": "Введение в специальность (факультатив)",
+        "idChair": 11,
+        "eduLevel": 1,
+        "abnameSubject": "ВвС(ф)"
+      },
+      {
+        "idSubject": 294,
+        "nameSubject": "Управление маркетингом услуг в организациях связи",
+        "idChair": 11,
+        "eduLevel": 1,
+        "abnameSubject": "УМУвОрС"
+      }
+    ]
+  }
+]

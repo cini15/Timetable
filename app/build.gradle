@@ -27,6 +27,9 @@ android {
     }
     productFlavors {
     }
+    testOptions {
+        unitTests.returnDefaultValues = true
+    }
 }
 
 dependencies {
@@ -40,6 +43,7 @@ dependencies {
     androidTestImplementation 'junit:junit:4.12'
     //    androidTestImplementation 'org.junit.jupiter:5.1.0'
     implementation 'org.testng:testng:6.9.6'
+    implementation 'com.google.code.gson:gson:2.8.0'
     implementation 'junit:junit:4.12'
     implementation 'junit:junit:4.12'
 }

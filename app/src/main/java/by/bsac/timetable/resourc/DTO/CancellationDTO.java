@@ -4,7 +4,7 @@ package by.bsac.timetable.resourc.DTO;
 
 
 
-import java.sql.Date;
+import java.util.Date;
 public class CancellationDTO {
 
     private int idCancellation;

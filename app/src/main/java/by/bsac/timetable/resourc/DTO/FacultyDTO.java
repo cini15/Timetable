@@ -1,6 +1,9 @@
 package by.bsac.timetable.resourc.DTO;
 
 
+import com.google.gson.annotations.Expose;
+import com.google.gson.annotations.SerializedName;
+
 import java.util.ArrayList;
 import java.util.Collection;
 
@@ -9,6 +12,8 @@ public class FacultyDTO {
     private byte idFaculty;
     private String nameFaculty;
 //    @JsonProperty("groups")
+    @SerializedName("groups")
+    @Expose
     private Collection<GroupDTO> groupsByIdFaculty=new ArrayList<>();
 
     public FacultyDTO() {
