@@ -2,7 +2,7 @@
 <resources>
     <color name="colorPrimary">#6f6f6f</color>
     <color name="colorPrimaryDark">#4d4d4d</color>
-    <color name="colorAccent">#e3d82020</color>
+    <color name="colorAccent">#002699</color>
     <color name="backWorkspase">#ececec</color>
     <color name="main_text_black">#000</color>
     <color name="main_text_width">#fff</color>
@@ -10,6 +10,6 @@
     <color name="subj_type_lect">#03e20a</color>
     <color name="subj_type_pract">#f7030b</color>
     <color name="subj_type_lab">#031bf7</color>
-    <color name="subj_type_def">#36e701</color>
+    <color name="subj_type_def">#ffffff</color>
 
 </resources>

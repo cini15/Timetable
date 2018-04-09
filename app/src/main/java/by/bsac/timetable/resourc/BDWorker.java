@@ -20,7 +20,9 @@ public class BDWorker extends SQLiteOpenHelper {
     public static String DB_PATH;
     //Имя файла с базой
     public static String DB_NAME="bdtable";
+    //базы данных
     public SQLiteDatabase database;
+    //контекст активити
     public final Context context;
 
 

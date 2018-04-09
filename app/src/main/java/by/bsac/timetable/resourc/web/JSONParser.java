@@ -1,24 +1,17 @@
 package by.bsac.timetable.resourc.web;
 
-import android.util.Log;
 
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
-
-import org.json.JSONArray;
-import org.json.JSONObject;
-
 import java.lang.reflect.Type;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.List;
-
 import by.bsac.timetable.resourc.DTO.ChairDTO;
 import by.bsac.timetable.resourc.DTO.FacultyDTO;
-import by.bsac.timetable.resourc.DTO.GroupDTO;
 import by.bsac.timetable.resourc.DTO.RecordDTO;
 
-public class JSONPrarser {
+public class JSONParser {
 
     public static Collection<FacultyDTO> parsJSONtoDTOFacylty(String jsonSrt){
 
@@ -48,7 +41,6 @@ public class JSONPrarser {
         }catch (Exception e){
             e.printStackTrace();
         }
-
         return recordDTOS;
     }
 

@@ -1,6 +1,8 @@
 package by.bsac.timetable.page_adapter;
 
+import android.annotation.SuppressLint;
 import android.content.res.Resources;
+import android.graphics.Color;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
@@ -9,6 +11,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.FrameLayout;
 import android.widget.LinearLayout;
+import android.widget.TextView;
 
 import by.bsac.timetable.R;
 import by.bsac.timetable.resourc.records.Record;
@@ -119,15 +122,18 @@ public class HolderFragment extends Fragment {
 //
 //        }
 
-        final View view = getLayoutInflater().inflate(R.layout.test,null);
 
-//        for (Record item:list) {
-//
-//
-//        }
+        if(list!=null) {
+            for (Record item:list) {
+                View view = getLayoutInflater().inflate(R.layout.test,null);
+                lin.addView(writeViewFromRecord(item,view));
+            }
+        }else {
+//             TODO
+//             если занятий нет
+        }
 
-        lin.addView(view);
-
+        //добавить запись в ViewGroup
         frameLayout.addView(lin);
 
         return mMiew;
@@ -171,6 +177,44 @@ public class HolderFragment extends Fragment {
         }
 
         return time;
+    }
+
+
+    private View writeViewFromRecord(Record record, View view){
+
+        TextView begin = view.findViewById(R.id.begin);
+        begin.setText(getTimeBegin(record.getOrdinal_number()));
+        TextView room=view.findViewById(R.id.room);
+        room.setText((record.getNumder()+" ауд. "+record.getBuilding()+" корп."));
+        TextView type =view.findViewById(R.id.type);
+        setTextViewColorByType(record.getType(),type);
+        type.setText(record.getType());
+        TextView lesson= view.findViewById(R.id.lesson);
+        lesson.setText(record.getSubject());
+        TextView subg_for=view.findViewById(R.id.subg_for);
+        subg_for.setText(record.getSubjectFor());
+        TextView teacher =view.findViewById(R.id.teacher);
+        teacher.setText(record.getLecturer());
+
+        return view;
+    }
+
+
+    private void setTextViewColorByType(String type, TextView view){
+        switch (type){
+            case  "Лекция": view.setBackgroundResource(R.color.subj_type_lect);
+            break;
+            case "Лабораторная работа":view.setBackgroundResource(R.color.subj_type_pract);
+            break;
+            case "Практическая работа":view.setBackgroundResource(R.color.subj_type_lab);
+            break;
+            default: view.setBackgroundResource(R.color.subj_type_def);
+            view.setTextColor(Color.BLACK);
+            break;
+        }
+
+
+
     }
 
 }

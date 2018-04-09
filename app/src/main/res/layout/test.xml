@@ -49,7 +49,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_above="@+id/lesson"
-                android:background="@color/subj_type_def"
+                android:background="@color/subj_type_lab"
                 android:text="тип"
                 android:textSize="15dp"
                 android:padding="2dp"

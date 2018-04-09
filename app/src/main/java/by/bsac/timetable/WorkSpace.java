@@ -363,6 +363,25 @@ public class WorkSpace extends AppCompatActivity implements NavigationView.OnNav
         HttpURLConnection urlConnection = null;
         BufferedReader reader = null;
         String resultJson = "";
+        final String URL="http://192.168.1.7:8000/api";
+        final String facultyURL="/faculty";
+        final String chairURL="/chairs";
+        final String recordURL="/records";
+
+        @Override
+        protected void onPreExecute() {
+            super.onPreExecute();
+        }
+
+        @Override
+        protected void onPostExecute(String s) {
+            super.onPostExecute(s);
+        }
+
+        @Override
+        protected void onProgressUpdate(Void... values) {
+            super.onProgressUpdate(values);
+        }
 
         @Override
         protected String doInBackground(Void... voids) {

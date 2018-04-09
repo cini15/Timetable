@@ -1,11 +1,9 @@
 package by.bsac.timetable;
 
-import android.util.Log;
-
 import org.junit.Test;
 
 
-import by.bsac.timetable.resourc.web.JSONPrarser;
+import by.bsac.timetable.resourc.web.JSONParser;
 
 import static junit.framework.Assert.assertEquals;
 
@@ -16,7 +14,7 @@ public class  ExampleUnitTest {
 
     @Test
     public  void Faculty() throws Exception {
-      JSONPrarser.parsJSONtoDTOFacylty(json);
+      JSONParser.parsJSONtoDTOFacylty(json);
 
     }
 
@@ -24,7 +22,7 @@ public class  ExampleUnitTest {
 
     @Test
     public void Records(){
-        JSONPrarser.parsJSONtoDTORecord(rec);
+        JSONParser.parsJSONtoDTORecord(rec);
 
     }
     String chair="[\n" +
@@ -65,6 +63,6 @@ public class  ExampleUnitTest {
 
     @Test
     public void Chair(){
-        JSONPrarser.parsJSONtoDTOChair(chair);
+        JSONParser.parsJSONtoDTOChair(chair);
     }
 }
