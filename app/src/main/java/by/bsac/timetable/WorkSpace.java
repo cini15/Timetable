@@ -139,51 +139,51 @@ public class WorkSpace extends AppCompatActivity implements NavigationView.OnNav
                 startActivity(intent);
 
                 return true;
-            case R.id.nowkeek:
-
-                mSectionsPagerAdapter= new SectionsPagerAdapter(getSupportFragmentManager());
-                mSectionsPagerAdapter.setWeek(weeksManager.getWeeks(val_thisWeek));
-                mViewPager.setAdapter(mSectionsPagerAdapter);
-
-                //weeksManager.WriteWeek(val_thisWeek, this);
-                Toast.makeText(this, "Выбор недели: (текущая)" + (val_thisWeek + 1), Toast.LENGTH_SHORT).show();
-
-
-                return true;
-
-            case R.id.week1:
-             //   mSectionsPagerAdapter= new SectionsPagerAdapter(getSupportFragmentManager());
-             //   mViewPager.setAdapter(mSectionsPagerAdapter);
-                mSectionsPagerAdapter.setWeek(weeksManager.getWeeks(0));
-                mSectionsPagerAdapter.notifyDataSetChanged();
-                //weeksManager.WriteWeek(0, this);
-                Toast.makeText(this, "Выбор недели: " + 1, Toast.LENGTH_SHORT).show();
-
-                return true;
-            case R.id.week2:
-
-                mSectionsPagerAdapter.setWeek(weeksManager.getWeeks(1));
-                mSectionsPagerAdapter.notifyDataSetChanged();
-                //weeksManager.WriteWeek(1, this);
-                Toast.makeText(this, "Выбор недели: " + 2, Toast.LENGTH_SHORT).show();
-
-
-                return true;
-            case R.id.week3:
-                mSectionsPagerAdapter.setWeek(weeksManager.getWeeks(2));
-                mSectionsPagerAdapter.notifyDataSetChanged();
-                //weeksManager.WriteWeek(2, this);
-                Toast.makeText(this, "Выбор недели: " + 3, Toast.LENGTH_SHORT).show();
-
-
-                return true;
-            case R.id.week4:
-                mSectionsPagerAdapter.setWeek(weeksManager.getWeeks(3));
-                mSectionsPagerAdapter.notifyDataSetChanged();
-                //weeksManager.WriteWeek(3, this);
-                Toast.makeText(this, "Выбор недели: " + 4, Toast.LENGTH_SHORT).show();
-
-                return true;
+//            case R.id.nowkeek:
+//
+//                mSectionsPagerAdapter= new SectionsPagerAdapter(getSupportFragmentManager());
+//                mSectionsPagerAdapter.setWeek(weeksManager.getWeeks(val_thisWeek));
+//                mViewPager.setAdapter(mSectionsPagerAdapter);
+//
+//                //weeksManager.WriteWeek(val_thisWeek, this);
+//                Toast.makeText(this, "Выбор недели: (текущая)" + (val_thisWeek + 1), Toast.LENGTH_SHORT).show();
+//
+//
+//                return true;
+//
+//            case R.id.week1:
+//             //   mSectionsPagerAdapter= new SectionsPagerAdapter(getSupportFragmentManager());
+//             //   mViewPager.setAdapter(mSectionsPagerAdapter);
+//                mSectionsPagerAdapter.setWeek(weeksManager.getWeeks(0));
+//                mSectionsPagerAdapter.notifyDataSetChanged();
+//                //weeksManager.WriteWeek(0, this);
+//                Toast.makeText(this, "Выбор недели: " + 1, Toast.LENGTH_SHORT).show();
+//
+//                return true;
+//            case R.id.week2:
+//
+//                mSectionsPagerAdapter.setWeek(weeksManager.getWeeks(1));
+//                mSectionsPagerAdapter.notifyDataSetChanged();
+//                //weeksManager.WriteWeek(1, this);
+//                Toast.makeText(this, "Выбор недели: " + 2, Toast.LENGTH_SHORT).show();
+//
+//
+//                return true;
+//            case R.id.week3:
+//                mSectionsPagerAdapter.setWeek(weeksManager.getWeeks(2));
+//                mSectionsPagerAdapter.notifyDataSetChanged();
+//                //weeksManager.WriteWeek(2, this);
+//                Toast.makeText(this, "Выбор недели: " + 3, Toast.LENGTH_SHORT).show();
+//
+//
+//                return true;
+//            case R.id.week4:
+//                mSectionsPagerAdapter.setWeek(weeksManager.getWeeks(3));
+//                mSectionsPagerAdapter.notifyDataSetChanged();
+//                //weeksManager.WriteWeek(3, this);
+//                Toast.makeText(this, "Выбор недели: " + 4, Toast.LENGTH_SHORT).show();
+//
+//                return true;
 
 
             case R.id.action_settings:
@@ -207,6 +207,10 @@ public class WorkSpace extends AppCompatActivity implements NavigationView.OnNav
                 alert.show();
 
                 return true;
+            case R.id.action_update:
+
+                return true;
+
 
 
             default:
@@ -330,27 +334,27 @@ public class WorkSpace extends AppCompatActivity implements NavigationView.OnNav
                 return true;
 
 
-            case R.id.action_settings:
-
-                return true;
-
-            case R.id.action_info:
-
-                AlertDialog.Builder builder = new AlertDialog.Builder(this);
-                builder.setTitle("Информация")
-                        .setMessage("Тут будет что-то информативное.")
-                        .setIcon(R.mipmap.ic_launcher)
-                        .setCancelable(false)
-                        .setNegativeButton("ОК, понятно",
-                                new DialogInterface.OnClickListener() {
-                                    public void onClick(DialogInterface dialog, int id) {
-                                        dialog.cancel();
-                                    }
-                                });
-                AlertDialog alert = builder.create();
-                alert.show();
-
-                return true;
+//            case R.id.action_settings:
+//
+//                return true;
+//
+//            case R.id.action_info:
+//
+//                AlertDialog.Builder builder = new AlertDialog.Builder(this);
+//                builder.setTitle("Информация")
+//                        .setMessage("Тут будет что-то информативное.")
+//                        .setIcon(R.mipmap.ic_launcher)
+//                        .setCancelable(false)
+//                        .setNegativeButton("ОК, понятно",
+//                                new DialogInterface.OnClickListener() {
+//                                    public void onClick(DialogInterface dialog, int id) {
+//                                        dialog.cancel();
+//                                    }
+//                                });
+//                AlertDialog alert = builder.create();
+//                alert.show();
+//
+//                return true;
 
 
             default:

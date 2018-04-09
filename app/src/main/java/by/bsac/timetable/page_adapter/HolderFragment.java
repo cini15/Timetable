@@ -1,6 +1,5 @@
 package by.bsac.timetable.page_adapter;
 
-import android.annotation.SuppressLint;
 import android.content.res.Resources;
 import android.graphics.Color;
 import android.os.Bundle;

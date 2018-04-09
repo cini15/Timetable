@@ -27,6 +27,13 @@
         android:orderInCategory="5"
         android:title="@string/action_info"
         app:showAsAction="never" />
+    <item
+        android:id="@+id/action_update"
+        android:orderInCategory="3"
+        android:title="@string/actoin_update"
+        app:showAsAction="ifRoom"
+
+        />
 
 
 
