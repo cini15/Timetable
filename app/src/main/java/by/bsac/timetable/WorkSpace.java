@@ -26,6 +26,7 @@ import android.view.MenuItem;
 import android.widget.Toast;
 
 import by.bsac.timetable.resourc.BDWorker;
+import by.bsac.timetable.resourc.model.date.DateHolder;
 import by.bsac.timetable.resourc.records.WeeksManager;
 
 import by.bsac.timetable.page_adapter.SectionsPagerAdapter;
@@ -88,6 +89,8 @@ public class WorkSpace extends AppCompatActivity implements NavigationView.OnNav
         tabLayout.setupWithViewPager(mViewPager);
 
         mSectionsPagerAdapter.setWeek(weeksManager.getWeeks(val_thisWeek));
+
+        DateHolder.getInstans();
 
 //        try {
 //            System.out.println(new ParsTest().execute().get());
